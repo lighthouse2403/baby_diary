@@ -1,0 +1,55 @@
+{
+    "summer_closet" : [
+                       {"name":"Áo sơ sinh dài tay mùa hè","amount":"5 cái"},
+                       {"name":"Quần dài sơ sinh mùa hè","amount":"5 cái"},
+                       {"name":"Áo cộc tay sơ sinh","amount":"5 cái"},
+                       {"name":"Quần đùi sơ sinh","amount":"5 cái"},
+                       {"name":"Mũ chụp","amount":"3 cái"},
+                       {"name":"Che thóp ","amount":"3 cái"},
+                       {"name":"Bao tay, bao chân","amount":"5 bộ"},
+                       {"name":"Tã chéo/ vuông ","amount":"10 cái"},
+                       ],
+    "winter_closet" : [
+                       {"name":"Áo sơ sinh dài tay mùa đông","amount":"5 cái"},
+                       {"name":"Quần dài sơ sinh mùa đông","amount":"5 cái"},
+                       {"name":"Mũ thóp len","amount":"2 cái"},
+                       {"name":"Mũ thóp vải","amount":"3 cái"},
+                       ],
+    "diaper" : [
+                {"name":"Khăn mặt","amount":"3 cái"},
+                {"name":"Khăn sữa","amount":"10 cái"},
+                {"name":"Khăn voan mỏng","amount":"1 cái"},
+                {"name":"Giấy ướt","amount":"2 bịch"},
+                {"name":"Giấy khô đa năng","amount":"2 bịch"},
+                {"name":"Giấy lót phân xu","amount":"5 bịch"},
+                {"name":"Miếng lót sơ sinh","amount":"1 bịch"},
+                {"name":"Bỉm","amount":"2 bịch"}
+                ],
+    "milk_bottle" : [
+                     {"name":"Bình sữa","amount":"1 bình"},
+                     {"name":"Gối lõm","amount":"1 cái"},
+                     {"name":"Ủ quấn","amount":"5 cái"},
+                     {"name":"Cắt móng tay","amount":"1 cái"},
+                     ],
+    "drug" : [
+              {"name":"Tăm bông trẻ em","amount":"1 hộp"},
+              {"name":"Bông y tế","amount":"3 gói"},
+              {"name":"Kem chống hăm","amount":"1 tuýp"},
+              {"name":"Thuốc nhỏ mắt mũi cho trẻ sơ sinh","amount":"1 lọ"},
+              {"name":"Nước muối sinh lý cho trẻ sơ sinh","amount":"2 lọ"},
+              {"name":"Cặp nhiệt độ","amount":"1 cái"},
+              ],
+    "mama_closet" : [
+                     {"name":"Bỉm người lớn","amount":"6-10 miếng"},
+                     {"name":"Băng vệ sinh Mama","amount":"1 gói"},
+                     {"name":"Quần lót dùng 1 lần","amount":"3 gói"},
+                     {"name":"Khăn mặt","amount":"2 cái"},
+                     {"name":"Miếng lót thấm sữa","amount":"1 bịch"},
+                     {"name":"Tất chân","amount":"3 đôi"},
+                     {"name":"Bông nút tai","amount":"3 đôi"},
+                     {"name":"Nước lọc","amount":"1 bình(1.5L)"},
+                     {"name":"Sữa ông thọ(uống để nhanh về sữa)","amount":"1 hộp"},
+                     {"name":"Nước muối súc miệng","amount":"1 lọ"},
+                     ]
+}
+

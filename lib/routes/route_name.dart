@@ -1,0 +1,29 @@
+class RoutesName {
+  static const String tabBarRoute = '/tabBar';
+  static const String homeRoute = '/home';
+  static const String chat = '/tabBar/chat';
+  static const String chatDetail = '/tabBar/chat/chatDetail';
+  static const String babyInformation = '/home/babyInformation';
+  static const String doctor = '/home/doctor';
+  static const String index = '/home/index';
+  static const String doctorDetail = '/home/doctor/doctorDetail';
+  static const String vaccination = '/home/vaccination';
+  static const String knowledge = '/home/knowledge';
+  static const String knowledgeList = '/home/knowledge/list';
+  static const String knowledgeDetail = '/home/knowledgeDetail';
+  static const String audios = '/home/audios';
+  static const String babyName = '/home/babyName';
+  static const String diaryList = '/diaries';
+  static const String diaryDetail = '/diaries/diaryDetail';
+  static const String babyKickList = '/home/babyKick';
+  static const String babyKickDetail = '/home/babyKick/babyKickDetail';
+  static const String newBabyKick = '/home/babyKick/newBabyKick';
+  static const String motherWeightList = '/home/motherWeight';
+  static const String motherWeightDetail = '/home/motherWeight/motherWeightDetail';
+  static const String babyClothers = '/home/babyClothers';
+  static const String babyClothersDetail = '/home/babyClothers/babyClothersDetail';
+  static const String favoriteName = '/home/babyName/favoriteName';
+  static const String babyWeightList = '/home/babyWeight';
+  static const String babyWeightDetail = '/home/babyWeight/babyWeightDetail';
+  static const String calendar = '/home/calendar';
+}

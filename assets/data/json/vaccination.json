@@ -1,0 +1,129 @@
+{
+    "ha_noi" : [{
+            "address" : "180 Trường chinh, Quận Đống Đa",
+            "image" : "",
+            "name" : "Trung tâm tiêm chủng vacxin VNVC Trường Chinh",
+            "phone" : "02438824666"
+        },{
+            "address" : "3 Cầu Giấy, P. Láng Thượng, Q. Đống Đa (Cạnh ĐH Giao Thông Vận Tải)",
+            "image" : "",
+            "name" : "Trung tâm tiêm chủng vacxin VNVC ICON 4 CẦU GIẤY",
+            "phone" : "02438824666"
+        },{
+            "address" : "Tầng 3, tòa nhà NewSkyline, lô CC2 khu đô thị mới Văn Quán - Yên Phúc, Q.Hà Đông",
+            "image" : "",
+            "name" : "Trung tâm tiêm chủng vacxin VNVC Văn Quán Hà Đông",
+            "phone" : "02438824666"
+        },{
+            "address" : "70 Nguyễn Chí Thanh, Đống Đa",
+            "image" : "",
+            "name" : "Trung tâm y tế dự phòng 70 Nguyễn Chí Thanh",
+            "phone" : "02439035688"
+        },{
+            "address" : "131 Lò Đúc, Hai Bà Trưng",
+            "image" : "",
+            "name" : "Trung tâm dịch vụ khoa học kỹ thuật và y tế dự phòng",
+            "phone" : "02439717694"
+        },{
+            "address" : "135 Lò Đúc, Hai Bà Trưng",
+            "image" : "",
+            "name" : "Phòng tiêm chủng SAFPO",
+            "phone" : "0988777700"
+        },{
+            "address" : "Số 1, Phương Mai, Đống Đa",
+            "image" : "",
+            "name" : "Bệnh viện Việt Pháp",
+            "phone" : "02435771100"
+        },{
+            "address" : "18/879 La Thành, Đống Đa",
+            "image" : "",
+            "name" : "Bệnh viện nhi Trung ương",
+            "phone" : "02438343700"
+        },{
+            "address" : "50C, Hàng Bài, Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội",
+            "image" : "",
+            "name" : "Trung tâm y tế dự phòng",
+            "phone" : "038229263"
+        },{
+            "address" : "Số 1 Yecxanh, Hai Bà Trưng, Hà Nội",
+            "image" : "",
+            "name" : "Viện Vệ sinh Dịch tễ Trung ương",
+            "phone" : "038213241"
+        },{
+            "address" : "Số 3, Ông Ích Khiêm, Ba Đình",
+            "image" : "",
+            "name" : "Trung tâm kiểm dịch y tế Số 3, Ông Ích Khiêm",
+            "phone" : "02437339803"
+        },{
+            "address" : "35 Trần Bình, Mai Dịch, Cầu Giấy",
+            "image" : "",
+            "name" : "Trung tâm tiêm phòng 35 Trần Bình, Mai Dịch, Cầu Giấy",
+            "phone" : "02437685512"
+        },{
+            "address" : "182, Lương Thế Vinh",
+            "image" : "",
+            "name" : "Phòng tiêm chủng dịch vụ 182 Lương Thế Vinh",
+            "phone" : "+841900256"
+        }],
+    "ho_chi_minh" : [{
+            "address" : "198 Hoàng Văn Thụ, Q. Phú Nhuận",
+            "image" : "",
+            "name" : "Trung tâm tiêm chủng VNVC HOÀNG VĂN THỤ",
+            "phone" : "+8418006595"
+        },{
+            "address" : "Lầu 1 TTTM Cantavil An Phú, Số 1 đường song hành, xa lộ Hà Nội, P. An Phú, Q.2",
+            "image" : "",
+            "name" : "Trung tâm tiêm chủng VNVC CANTAVIL AN PHÚ",
+            "phone" : "+8418006595"
+        },{
+            "address" : "Tầng 2 TTTM, Cao ốc Bảo Gia, 184 Lê Đại Hành, P. 15, Q. 11, TP. HCM",
+            "image" : "",
+            "name" : "Trung tâm tiêm chủng VNVC LÊ ĐẠI HÀNH",
+            "phone" : "+8418006595"
+        },{
+            "address" : "699 Trần Hưng Đạo, P.1, Q.5",
+            "image" : "",
+            "name" : "Trung tâm y tế dự phòng TP. Hồ Chí Minh",
+            "phone" : "02839242717"
+        },{
+            "address" : "167 Pasteur, Phường 8, Quận 3",
+            "image" : "",
+            "name" : "Viện Pasteur HCM",
+            "phone" : "02838230352"
+        },{
+            "address" : "284 Cống Quỳnh, Quận 1",
+            "image" : "",
+            "name" : "Bệnh viện Từ Dũ",
+            "phone" : "02854042829"
+        },{
+            "address" : "341 Sư Vạn Hạnh – P.10 – Q.10",
+            "image" : "",
+            "name" : "Bệnh viện Nhi đồng 1",
+            "phone" : "02839271119"
+        },{
+            "address" : "14 Lý Tự Trọng, Phường Bến Nghé, Quận 1",
+            "image" : "",
+            "name" : "Bệnh viện Nhi Đồng 2",
+            "phone" : "02838295723"
+        },{
+            "address" : "Số 6 Nguyễn Lương Bằng, Tân Phú, Quận 7",
+            "image" : "",
+            "name" : "Bệnh viện Việt Pháp – Hồ Chí Minh",
+            "phone" : "02854113333"
+        },{
+            "address" : "180 Lê Văn Sỹ, phường 10 quận Phú Nhuận",
+            "image" : "",
+            "name" : "Trung tâm Dinh dưỡng TP. HCM",
+            "phone" : "02838445990"
+        },{
+            "address" : "243-243A-243B Hoàng Văn Thụ, Phường 1, Q. Tân Bình",
+            "image" : "",
+            "name" : "Bệnh viện phụ sản Mekong",
+            "phone" : "02838442988"
+        },{
+            "address" : "10 Trần Huy Liệu, Phường 12, Quận Phú Nhuận",
+            "image" : "",
+            "name" : "Bệnh viện An Sinh",
+            "phone" : "02838457777"
+        }]
+}

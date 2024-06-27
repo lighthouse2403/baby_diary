@@ -1,0 +1,1710 @@
+{
+"baby_name" : [
+          {
+          "firstCharacter" : "A",
+          "lastName" : "An",
+          "firstNameGirl" : "An,Bình,Bảo,Diệu,Diễm,Kim,Hà,Gia,Hạ,Hải,Hạnh,Hoa,Hoài,Huệ,Kiều,Mỹ,Nguyên,Ngọc,Minh,Phương,Tâm,Thảo,Thiên,Thu,Thuỳ,Thuý,Tiểu,Trúc,Tuyết,Vân",
+          "firstNameBoy" : "Bình,Duy,Đình,Đức,Gia,Hải,Hoàng,Long,Mạnh,Nhật,Phúc,Quốc,Tân,Thế,Thuận,Tiến,Văn,Việt,Xuân"
+          },{
+          "firstCharacter" : "A",
+          "lastName" : "Anh",
+          "firstNameGirl" : "Bảo,Bình,Cẩm,Chi,Diệu,Diễm,Diệp,Hà,Hạ,Hải,Hoa,Hoài,Hồng,Kiều,Huyền,Kim,Lan,Mai,Minh,Mỹ,Ngân,Ngọc,Nguyệt,Nhật,Phương,Quế,Quỳnh,Thu,Tâm,Trâm,Trang",
+          "firstNameBoy" : "Bình,Công,Dương,Duy,Đình,Đức,Gia,Hải,Huỳnh,Huy,Hoàng,Nam,Nhật,Quang,Quốc,Văn,Tâm,Tiến,Thế"
+          },{
+          "firstCharacter" : "A",
+          "lastName" : "Ái",
+          "firstNameGirl" : "Gia,Khả,Mỹ,Ngọc,Nguyệt,Thanh,Thiện,Thuận,Thuỳ",
+          "firstNameBoy" : "Nhân,Quang"
+          },{
+          "firstCharacter" : "A",
+          "lastName" : "Ân",
+          "firstNameGirl" : "Bảo,Cát,Chiêu,Diệu,Hà,Hạ,Hoài,Hồng,Huệ,Thi,Thiên,Thuý,Tường",
+          "firstNameBoy" : "Đức,Duy,Thế,Thiện,Thiên,Trọng"
+          },{
+          "firstCharacter" : "A",
+          "lastName" : "Ánh",
+          "firstNameGirl" : "Bảo,Cẩm,Diệp,Hồng,Minh,Kim,Ngọc,Nguyệt,Quỳnh,Tuyết",
+          "firstNameBoy" : "Duy,Quốc,Trọng,Việt,Xuân"
+          },{
+          "firstCharacter" : "B",
+          "lastName" : "Ba",
+          "firstNameGirl" : "Thuý,Thu",
+          "firstNameBoy" : "An,Đình,Duy,Hoàng,Hồng,Khánh,Lăng,Thanh,Thiên,Thu,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bá",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Đình,Dương,Duy,Hoàng,Ngọc,Nguyên,Sơn,Thanh,Thế,Thiên,Thiện,Trọng,Vương"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bác",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Uyên"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bắc",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Hoa,Đình,Thanh,Vĩnh,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bách",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Đăng,Duy,Hữu,Hoàng,Ngọc,Quang,Sơn,Tiểu,Tùng,Việt,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bạch",
+               "firstNameGirl" : "Nguyệt,Thuỷ,Tuyết",
+               "firstNameBoy" : "Đăng,Duy,Gia,Phúc,Thanh,Thế,Thiên,Vương"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bái",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Đông,Duy,Quốc,Yên"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bài",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Ngọc,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bản",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Danh,Duy,Ngọc,Quốc,Tuấn,Vụ"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bang",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Diệp,Huy,Nam,Thế"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bàng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hồng,Hữu,Ngọc,Ngọc,Nhật,Thái,Thanh,Thế,Thiên,Việt,Vĩnh,Vũ,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Băng",
+               "firstNameGirl" : "An,Hải,Hoa,Khánh,Hạ,Lệ,Ngọc,Tâm,Sơn,Thanh,Trúc,Tú,Tuyết",
+               "firstNameBoy" : "An,Duy,Hoàng,Hữu,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bằng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Cao,Đồng,Đức,Hữu,Nhật,Sơn,Yên"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Báo",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Công,Nguyên,Thanh"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bảo",
+               "firstNameGirl" : "Hoa,Hoài,Quỳnh,Thu,Thuý,Trúc",
+               "firstNameBoy" : "An,Chấn,Chí,Đại,Đăng,Đình,Duy,Gia,Hoài,Hoàng,Hùng,Hữu,Huy,Long,Minh,Ngọc,Nguyên,Nhật,Như,Phú,Phúc,Phương,Quân,Quốc,Sơn,Thái,Thanh,Thiên,Thiện,Thiệu,Thịnh,Tiểu,Tuấn,Vân,Việt,Vĩnh,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bi",
+               "firstNameGirl" : "Thanh",
+               "firstNameBoy" : "Quang,Đức,Thanh"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bích",
+               "firstNameGirl" : "An,Diệp,Diệu,Hà,Hồng,Huệ,Lam,Ngọc,Nguyệt,Nhật,Như,Phương,Thanh,Thiên,Thuỷ",
+               "firstNameBoy" : "Thiên,Toàn"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Biên",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Đức,Khải,Ngọc,Quang,Vĩnh,Xuân"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Biền",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Ngọc,An,Cao"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bình",
+               "firstNameGirl" : "An,Hải,Hoà,Huệ,Hương,Mộng,Ngân,Ngọc,Nguyên,Như,Thuỷ,Tố,Tuệ,Tuyết",
+               "firstNameBoy" : "An,Bắc,Bảo,Đắc,Đức,Gia,Hải,Hoà,Hữu,Phong,Phương,Quân,Quang,Quảng,Quốc,Tân,Thái,Thanh,Thảo,Thuận,Thế,Trọng,Vương,Xuân,Yên"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bội",
+               "firstNameGirl" : "Ngọc",
+               "firstNameBoy" : "Tiểu"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bôn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Khắc,Đình"
+               },{
+               "firstCharacter" : "B",
+               "lastName" : "Bửu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Gia,Huy,Hoàng,Nguyên,Ngọc,Quốc,Thiên,Quang,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Ca",
+               "firstNameGirl" : "Ngân,Nguyệt",
+               "firstNameBoy" : "Ân,Bảo,Hải,Hồng,Hùng,Khải,Minh,Mạnh,Nam,Phú,Quốc,Phương,Sơn,Thế,Thi,Vĩnh,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cách",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đông,Xuân,Ngọc,Yên"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cầm",
+               "firstNameGirl" : "Hoàng,Huyền,Ngọc,Mỹ,Ngọc,Nguyệt,Thanh,Thi,Tố,Tú,Vĩ",
+               "firstNameBoy" : "An,Hoàng"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cẩm",
+               "firstNameGirl" : "Bích,Diệu,Dương,Giao,Hoàng,Hương,Khánh,Lệ,Mỹ,Ngọc,Nguyệt,Nguyên,Phi,Phương,Quỳnh,Thiên,Thu,Thuỳ,Tú",
+               "firstNameBoy" : "Minh,Nguyên,Sơn,Thái,Thanh,Thiên,Tú,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cần",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Chuyên,Hữu,Thế,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Canh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Hương"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cảnh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Quang,Hữu,Minh,Ngọc,Thiên,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cao",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bình,Đình,Huấn,Minh,Nam,Ngọc,Nhất,Thanh,Trọng,Tự,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cát",
+               "firstNameGirl" : "Đài,Mai,Nguyên,Nguyệt,Phương,Phượng",
+               "firstNameBoy" : "Tiểu,Đại,Hoàng,Thuỷ,Tiên,Tịnh,Tuệ,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Châm",
+               "firstNameGirl" : "Kim,Huyền,Minh,Huệ,Ngọc",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chân",
+               "firstNameGirl" : "Ngọc,Kim,Thanh,Huyền",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chấn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Quang,Quốc,Uy,Thanh"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chanh",
+               "firstNameGirl" : "Ngọc,Hồng",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chất",
+               "firstNameGirl" : "Bảo,Minh",
+               "firstNameBoy" : "Đình,Hữu"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Châu",
+               "firstNameGirl" : "Ái,An,Băng,Bảo,Bích,Dạ,Diễm,Diệu,Hải,Hiền,Hoàng,Hồng,Khánh,Kim,Mai,Minh,Mộc,Mỹ,Quỳnh,Thuỳ,Trân,Yên",
+               "firstNameBoy" : "Hải,Ngọc,Minh,Tô"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chi",
+               "firstNameGirl" : "An,Ánh,Bá,Bích,Cẩm,Diễm,Diệp,Hạnh,Huệ,Kiều,Kim,Lan,Lệ,Linh,Mẫn,Minh,Mộc,Mỹ,Ngọc,Nguyệt,Nhã,Nhật,Quế,Quỳnh,Thái,Thanh,Thuý,Thuỳ,Tú,Tường,Tuyết,Uyên,Vân,Việt,Xuyến,Ý,Yến",
+               "firstNameBoy" : "Minh,Phước,Quân,Quang"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chí",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Cẩn,Duy,Hữu,Ngọc,Nguyên,Quang,Quốc,Thanh,Thiên,Thiện"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chiêm",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Diệu,Quang,Thanh,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chiến",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bách,Bảo,Đình,Đức,Hùng,Hữu,Mạnh,Minh,Ngọc,Quang,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chiêu",
+               "firstNameGirl" : "An,Bảo,Bích,Minh,Mỹ,Nhật,Phong",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chiểu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đông,Liên,Đình,Ngọc"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chinh",
+               "firstNameGirl" : "Yến,Kiều,Mai",
+               "firstNameBoy" : "Bảo,Đình,Mai,Trường"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chính",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Danh,Đức,Thanh,Thuận,Trọng,Trung,Việt"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chỉnh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Hữu,Ngọc,Thế"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Hữu,Minh"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chuẩn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Minh,Quang,Quốc,Quý,Thế,Trọng,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chức",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Ngọc,Minh,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chương",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bình,Hoàng,Chiêu,Đình,Hoàng,Huy,Minh,Ngọc,Tuấn,Văn"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Chuyên",
+               "firstNameGirl" : "Bảo,Hà,Kiều,Minh,Mỹ,Ngọc",
+               "firstNameBoy" : "Trung,Tùng,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cơ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đăng,Thế,Gia,Hoàng,Quốc,Vĩnh"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Côn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đình,Thái,Trần"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Công",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Chiến,Chí,Đức,Đăng,Hoàng,Minh,Thành"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cư",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Ngọc,Xuân"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cúc",
+               "firstNameGirl" : "Bạch,Hạ,Hồng,Hương,Khả,Thu,Vạn,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cương",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Duy,Đình,Hoàng,Hữu,Mạnh,Thế,Việt"
+               },{
+               "firstCharacter" : "C",
+               "lastName" : "Cường",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,An,Bá,Bằng,Bảo,Đắc,Đình,Duy,Hùng,Huy,Kiên,Mạnh,Minh,Nam,Ngọc,Phi,Phú,Phúc,Quốc,Thế,Thiên,Thịnh,Trí,Vĩ,Việt,Vĩnh"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dân",
+               "firstNameGirl" : "An,Hà,Mỹ,Trúc",
+               "firstNameBoy" : "An,Duy,Hạo,Hiếu,Hoàng,Huy,Quốc,Tri,Trung"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dần",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Mạnh,Thanh,Trọng"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Danh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Cao,Minh,Ngọc,Phúc,Hoàng,Thanh,Thành,Văn"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dao",
+               "firstNameGirl" : "Diệu,Diễm,Kiều,Lệ,Ngọc,Quỳnh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Diễm",
+               "firstNameGirl" : "An,Bảo,Hoàng,Hồng,Kiều,Ngọc,Phương,Thuý,Thuỳ,Trúc,Tú,Vân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Diệm",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Đình,Hoàng,Ngọc,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Diên",
+               "firstNameGirl" : "An,Kiều,Phương,Phúc,Tường,Lâm,Diệu",
+               "firstNameBoy" : "Phúc,Lâm"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Diễn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Huy,Hùng,Hoàng,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Diệp",
+               "firstNameGirl" : "An,Bảo,Bích,Hà,Hoàng,Hồng,Huyền,Khánh,Liên,Linh,Mỹ,Ngọc,Nhã,Nhật,Quỳnh,Tâm,Thanh,Thảo,Thiên,Thu,Thư,Thuý,Tố,Trúc,Tú,Vân,Xuân",
+               "firstNameBoy" : "Khải,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Diệu",
+               "firstNameGirl" : "Ái,An,Hà,Hoa,Hồng,Hương,Huyền,Kha,Khánh,Linh,Mai,My,Mỹ,Ngân,Phương,Thanh,Thuý,Vân,Xuân",
+               "firstNameBoy" : "Phúc,Vĩnh,Xuân,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Doãn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Đông,Hoàng,Quý"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Doanh",
+               "firstNameGirl" : "Doanh,Kiều,Ngọc",
+               "firstNameBoy" : "Lâm,Thế"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Du",
+               "firstNameGirl" : "Ánh,Bảo,Hương,Huyền,Minh,Phương,Hạ,Thuý,Thảo,Tâm,Xuân",
+               "firstNameBoy" : "Bảo,Bình,Minh,Tường,Xuân,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dư",
+               "firstNameGirl" : "Cẩm,Khánh,Kiều,Ngọc,Thanh,Yến",
+               "firstNameBoy" : "Đức,Hữu,Khương,Ngọc,Thanh,Trọng,Xuân,Yến"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Duẩn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Đức,Minh"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dục",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Thanh,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dung",
+               "firstNameGirl" : "Ân,Bạch,Lan,Hạnh,Hoàng,Kiều,Kim,Mai,Ngọc,Phù,Phương,Thuý,Thuỳ,Từ,Tuyết,Vân,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dũng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Cao,Công,Đức,Huy,Hùng,Hoàng,Mạnh,Minh,Nhật,Quang,Quốc,Tấn,Thanh,Trung,Trí,Vương,Việt"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dụng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đắc,Hữu,Trọng"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dương",
+               "firstNameGirl" : "Ánh,Bạch,Minh,Khánh,Mộng,Ngọc,Thanh,Thuỳ,Tố,Trúc,Tú",
+               "firstNameBoy" : "Bạch,Bảo,Cao,Chương,Duy,Hạ,Hải,Hoàng,Hữu,Huy,Minh,Khánh,Nguyên,Ngọc,Nhật,Quang,Thái,Thanh,Thế,Trùng,Văn,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Dưỡng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Quang,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Duy",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bằng,Đức,Hoàng,Hồng,Ngọc,Nhật,Minh,Thanh,Quốc,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Duyên",
+               "firstNameGirl" : "Ánh,Bích,Hạnh,Hồng,Kiều,Kỳ,Minh,Mộng,Mỹ,Ngọc,Nhã,Nhân,Phương,Quỳnh,Thanh,Thảo,Thu,Thuý,Thuỳ,Tú,Tường",
+               "firstNameBoy" : "Hữu,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Duyệt",
+               "firstNameGirl" : "Mỹ",
+               "firstNameBoy" : "Minh,Đức,Thế,Quang,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đa",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Thanh,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đắc",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hữu,Thế,Quang,Quý,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đại",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Bá,Cao,Duy,Hoàng,Hữu,Huy,Minh,Ngọc,Nhân,Quang,Quảng,Quốc,Thành,Tiến,Trọng,Trí,Vũ,Xuân,Yên"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đam",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Đức,Hữu,Khánh,Trọng,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đạm",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Minh,Ngọc,Quang,Thanh,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đan",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Hồng,Hoàng,Kim,Linh,Minh,Phúc,Tú,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đán",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Ngọc,Hoàng,Nguyên"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đăng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Hải,Hoàng,Hồng,Hữu,Huy,Minh,Ngọc,Nguyên,Nhật,Quang,Quốc,Quý,Thiện,Tiến,Vũ,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đảng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Hữu,Thế,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đặng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Ngọc,Minh"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đào",
+               "firstNameGirl" : "Anh,Bích,Hồng,Thanh,Thu,Thuý,Ngọc,Tuyết",
+               "firstNameBoy" : "Hoàng,Minh,Ngọc,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đạo",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bá,Công,Đăng,Đình,Duy,Nghĩa,Quang,Nhân,Phúc,Thành,Trung"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đạt",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bá,Bảo,Cao,Đình,Duy,Gia,Hữu,Khánh,Mạnh,Minh,Phát,Quang,Quốc,Quý,Thanh,Thành,Thiên,Thông,Tiến,Trí,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Điềm",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Huy,Thanh"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Điền",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Huy,Minh,Ngọc,Phú,Phúc"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Điệp",
+               "firstNameGirl" : "Ánh,Hồng,Hương,Mộng,Mỹ,Ngọc,Thanh,Thu,Thuý,Ý",
+               "firstNameBoy" : "Bá,Bảo,Duy,Hữu,Khắc,Minh,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đính",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bái,Bảo,Công,Ngọc,Quang"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đình",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bảo,Công,Duy,Hữu,Huy,Mai,Mạnh,Minh,Mỹ,Nghĩa,Ngọc,Nhân,Phong,Phước,Phương,Quân,Quang,Quốc,Trí,Trung,Tú,Văn,Yên,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Định",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Duy,Gia,Hữu,Kiên,Minh,Nhân,Quang,Quốc,Thanh,Tiến,Trung,Văn,Vũ,Vương"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đô",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đại,Đông,Minh,Quang,Quý,Quốc,Thành"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Độ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Danh,Hoàng,Hữu,Minh,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đoàn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Gia,Khải,Hải,Huy,Minh,Ngọc,Phúc"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đông",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Chấn,Hiểu,Huỳnh,Minh,Ngọc,Phương,Tuyết,Viễn"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đức",
+               "firstNameGirl" : "Y,Diệu,Ngọc,Thuý",
+               "firstNameBoy" : "Anh,Công,Đại,Đình,Duy,Gia,Hoàng,Hồng,Hữu,Hy,Huyền,Khải,Mạnh,Minh,Nghĩa,Mỹ,Ngọc,Nguyên,Phú,Phúc,Phước,Phương,Quang,Quốc,Quý,Tài,Tâm,Tân,Tấn,Thành,Thiên,Thuần,Thuận,Thuỷ,Toàn,Tôn,Trí,Trọng,Trung,Việt,Xuân"
+               },{
+               "firstCharacter" : "D",
+               "lastName" : "Đường",
+               "firstNameGirl" : "Mỹ,Hải",
+               "firstNameBoy" : "Hải,Yên,Trung,Thanh,Ngọc,Mỹ"
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Gia",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Ân,Bảo,Đại,Hải,Hạnh,Hoà,Hoàng,Huy,Khải,Khánh,Mỹ,Ngọc,Nhân,Phạm,Phú,Phúc,Phương,Quốc,Thế,Tiểu,Trí,Trung,Việt,Vĩ,Xuân"
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Giá",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Trọng,Xuân"
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Giang",
+               "firstNameGirl" : "Băng,Bảo,Bích,Bình,Cẩm,Châu,Hà,Hoài,Hồng,Huệ,Hương,Khánh,Kiều,Kim,Lệ,Linh,Minh,Mỹ,Ngọc,Nguyệt,Tâm,Thanh,Tố,Trà,Trúc,Tuệ,Tuyết,Uyên",
+               "firstNameBoy" : "Bảo,Bình,Châu,Chí,Công,Đình,Đông,Đức,Hạ,Hà,Hoàng,Hữu,Khắc,Khải,Long,Mạnh,Nam,Nhật,Ninh,Quốc,Quỳnh,Thanh,Thành,Thế,Trọng,Trúc,Trường,Tú,Tùng,Văn,Vĩnh,Vũ,Việt"
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Giao",
+               "firstNameGirl" : "Ánh,Bích,Bình,Cẩm,Hiền,Huyền,Khả,Kim,Kim,Mộng,Mỹ,Nam,Ngọc,Nhật,Tâm,Thanh,Thi,Thuỳ,Trúc,Tú,Tường,Quỳnh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Giáp",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hoằng,Nguyên,Văn"
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Giàu",
+               "firstNameGirl" : "Ngọc,Thanh",
+               "firstNameBoy" : "Đức,Minh,Ngọc,Nguyên,Phú,Xuân,Thanh"
+               },{
+               "firstCharacter" : "G",
+               "lastName" : "Giỏi",
+               "firstNameGirl" : "Minh,Thanh,Phương,Ngọc",
+               "firstNameBoy" : "Đình,Minh,Thanh,Phương,Ngọc"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hà",
+               "firstNameGirl" : "Ân,Ánh,Bảo,Bích,Cẩm,Châu,Diễm,Hoàng,Khánh,Lâm,Kim,Lan,Linh,Liên,Mai,Minh,Mỹ,Ngân,Ngọc,Nguyệt,Phương,Thanh,Thảo,Thiên,Thu,Tuyết,Uyển,Vân",
+               "firstNameBoy" : "Bắc,Đăng,Đình,Dương,Duy,Giang,Hoàng,Quang,Đức,Nam,Sơn,Việt"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hạ",
+               "firstNameGirl" : "Ánh,Băng,Bích,Diệp,Giang,Khánh,Lâm,Liên,Ly,Mai,Minh,Mỹ,Ngọc,Nguyệt,Như,Phương,Quyên,Quỳnh,Sơn,Thanh,Thu,Thi,Trâm,Trang,Vân,Trúc,Xuân,Vi,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hải",
+               "firstNameGirl" : "Băng,Minh,Ngọc",
+               "firstNameBoy" : "Bằng,Đông,Đức,Duy,Hoàng,Lâm,Linh,Long,Lưu,Lý,Nam,Minh,Ngọc,Phong,Phương,Quang,Quốc,Sơn,Thuỵ,Trí,Trung,Uy"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hàn",
+               "firstNameGirl" : "Lâm,Ngọc",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hân",
+               "firstNameGirl" : "Bảo,Bích,Gia,Kim,Mai,Ngọc,Thiên,Trúc,Tuyết",
+               "firstNameBoy" : "Đức,Ngọc"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hằng",
+               "firstNameGirl" : "Ánh,Bích,Diệu,Minh,Như,Phương,Thanh,Thu,Thuý,Tuyết",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hanh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Thế,Khắc"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hạnh",
+               "firstNameGirl" : "Hồng,Kim,Minh,Mỹ,Phương,Thảo,Thu,Thuỷ,Tiên,Trà,Yến,Trâm,Trúc,Tuyết",
+               "firstNameBoy" : "Đức"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hào",
+               "firstNameGirl" : "Anh",
+               "firstNameBoy" : "Anh,Đức,Thế,Quang"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hảo",
+               "firstNameGirl" : "Bích,Minh,Mỹ,Ngọc,Như",
+               "firstNameBoy" : "Đình,Công"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hậu",
+               "firstNameGirl" : "Thu",
+               "firstNameBoy" : "Đăng,Đình,Quang,Thế,Đức"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hiền",
+               "firstNameGirl" : "Bích,Diệu,Mai,Minh,Ngọc,Phương,Thanh,Thục,Thuý,Vân",
+               "firstNameBoy" : "Đức,Đắc,Thế"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hiển",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Trí,Lâm,Thế,Trí,Xuân,Trung,Vinh"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hiệp",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Bách,Đức,Quang"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hiếu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Duy,Đức,Minh,Ngọc,Quang,Trung,Trọng,Trí,Xuân"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoa",
+               "firstNameGirl" : "Kim,Hương,Cẩm,Diệu,Ngọc,Như,Mai,Linh,Liên,Thanh,Thiên,Quỳnh,Yên",
+               "firstNameBoy" : "Đức"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoá",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Minh,Thanh,Thế"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoà",
+               "firstNameGirl" : "Minh,Thanh,Kim",
+               "firstNameBoy" : "Bảo,Đức,Đăng,Thái"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoài",
+               "firstNameGirl" : "Bạch,Bảo,Bích,Linh,Ngọc,Thanh,Thiên,Thu",
+               "firstNameBoy" : "Đức,Thế"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoan",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Đức,Thế,Thanh"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoàn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Đắc,Khải"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hoàng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bảo,Gia,Huy,Kiên,Kim,Lam,Lâm,Lân,Linh,Long,Lý,Lưu,Minh,Phong,Quốc,Tấn,Thạch,Thái,Thanh,Thành"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Học",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đình,Thái"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hồng",
+               "firstNameGirl" : "Ân,Bích,Diệu,Khuê,Lan,Liên,Linh,Phúc,Phương,Thuý",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Huân",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Đức,Thế"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Huế",
+               "firstNameGirl" : "Minh,Mộng,Thanh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Huệ",
+               "firstNameGirl" : "Ân,Ái,Bích,Lâm,Lan,Minh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hùng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bảo,Duy,Mạnh,Nhật,Phi,Quang,Sỹ,Thế,Thiệu,Việt"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hưng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Ngọc,Chấn,Gia,Khánh,Long,Minh,Nhật,Phúc,Quốc,Thạnh,Thế,Thiên,Vĩnh"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hương",
+               "firstNameGirl" : "Chiêu,Ngọc,Minh,Diệu,Liên,Linh,Lưu,Như,Thi,Trà",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hữu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Khánh,Bằng,Tài,Tâm,Đức,Ngọc,Thanh,Tố,Thế"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Huy",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Anh,Bảo,Đức,Gia,Hoàng,Khải,Khánh,Minh,Ngọc,Nhật,Phúc,Quang,Quốc,Thái,Trình,Trọng,Xuân"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Huyền",
+               "firstNameGirl" : "Ánh,Bích,Diệu,Kim,Minh,Ngọc,Nhật,Thu",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Huỳnh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Đức,Thế,Trọng"
+               },{
+               "firstCharacter" : "H",
+               "lastName" : "Hy",
+               "firstNameGirl" : "An,Ngọc,Xuân",
+               "firstNameBoy" : "Quang,Xuân"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kha",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Mạnh,Duy"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khải",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bình,Đức,Hoàng,Huy,Mạnh,Minh,Quang,Thế,Trọng,Tuấn"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khang",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Bảo,Bình,Duy,Minh,Ngọc,Nguyên,Phúc,Thế,Trí"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khanh",
+               "firstNameGirl" : "Ái,Hồng,Mai,Mỹ,Ngọc,Nhã,Phi,Phương,Vân",
+               "firstNameBoy" : "Hữu,Đức,Tuấn"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khánh",
+               "firstNameGirl" : "An,Châu,Kim,Minh,Ngọc,Nhật,Như,Thi,Vân,Xuân",
+               "firstNameBoy" : "An,Bảo,Cao,Châu,Đăng,Duy,Gia,Huy,Hữu,Kim,Lê,Mạnh,Nam,Minh,Ngọc,Nhật,Phúc,Quốc,Thi,Thiên,Thuỵ,Toàn,Vân,Xuân"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khiêm",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Đức,Duy,Quốc"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khoa",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bắc,Bình,Đắc,Đại,Đăng,Danh,Đình,Dương,Đức,Hải,Hữu,Minh,Nam,Ngọc,Phước,Quang,Quốc,Quý,Thái,Tiến,Trọng,Việt,Xuân"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khôi",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Đức,Mai,Mạnh,Minh,Nhật,Quốc,Quý,Thiên,Tuấn,Việt,Xuân"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khuê",
+               "firstNameGirl" : "Bích,Diễm,Minh,Ngọc,Thục,Trúc",
+               "firstNameBoy" : "Đức"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khương",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Duy,Đức,Thế,Tuấn,Thái,Minh,Mạnh"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Khuyên",
+               "firstNameGirl" : "Hồng,Minh,Mỹ,Quỳnh,Vân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kiên",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Công,Đại,Đăng,Thế,Khắc,Đức,Doãn,Duy,Gia,Hạ,Hoài,Hồng,Mạnh,Nam,Ngọc,Nhật,Phát,Phúc,Thanh,Thế,Thuận,Toàn,Trọng,Tú,Tuấn,Tùng,Viết,Việt,Xuân"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kiệt",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Gia,Hữu,Thế,Tuấn,Trí,Quốc,Nhân,Hào,Đức,Anh"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kiều",
+               "firstNameGirl" : "Bảo,Hoàng,Mai,Như,Minh,Thanh,Xuân,Thư,Thuý",
+               "firstNameBoy" : "Công,Đức,Bách"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kim",
+               "firstNameGirl" : "Anh,Ánh,Bạch,Bảo,Mỹ,Ngọc,Thuyên,Thiên,Tú,Tuyết,Vĩnh",
+               "firstNameBoy" : "Bạch,Bảo,Quốc,Trọng"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kính",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Nhân,Trung,Thế,Khắc,Thế"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kỳ",
+               "firstNameGirl" : "Gia,Mỹ",
+               "firstNameBoy" : "Đức,Thế,Khánh,Xuân"
+               },{
+               "firstCharacter" : "K",
+               "lastName" : "Kỷ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Ngọc,Đức,Đắc,Thế"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lạc",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hồng,Gia,Thiên,Yên,Gia"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lam",
+               "firstNameGirl" : "Bích,Kiều,Mỹ,Ngọc,Phương,Quỳnh,Thanh,Tiểu,Ý,Trúc",
+               "firstNameBoy" : "Đức,Hoàng"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lâm",
+               "firstNameGirl" : "Hoài,Huệ,Nhã,Quỳnh,Thuỳ,Trúc,Tuệ,Tú,Tuyết,Uyên",
+               "firstNameBoy" : "Bảo,Bửu,Cao,Chi,Diệu,Đình,Duy,Hải,Hoàng,Hoài,Khánh,Kiều,Minh,Nhật,Phú,Phúc,Quang,Thanh,Tuệ,Tùng,Viết,Xuân"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lan",
+               "firstNameGirl" : "Ánh,Bích,Cẩm,Chi,Diệu,Huệ,Hương,Kim,Mỹ,Ngọc,Nhã,Nhật,Như,Phong,Phương,Quỳnh,Thanh,Thảo,Thu,Tố,Trúc,Tú,Tuyết,Uyên,Xuân,Ý",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lân",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Duy,Ngọc,Đức,Thế"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lang",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Duy,Võ,Trọng"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lành",
+               "firstNameGirl" : "Hương,Gia",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lập",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Khắc,Quốc,Quang"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lê",
+               "firstNameGirl" : "Quỳnh,Yến",
+               "firstNameBoy" : "Đức,Trọng,Quang"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lễ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hữu,Tôn,Đức,Ngọc"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lệ",
+               "firstNameGirl" : "Kiều,Diễm,Mỹ,Ngọc,Nhật,Như,Thanh,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Liên",
+               "firstNameGirl" : "Ái,Ánh,Bạch,Bích,Bình,Cẩm,Cát,Châu,Chi,Diễm,Diệu,Gia,Giang,Giao,Hà,Hạ,Hải,Hạnh,Hồng,Huệ,Kim,Mai,Ngọc,Phương,Thanh,Thuý,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Liễu",
+               "firstNameGirl" : "Ngọc,Giao,Phương",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Linh",
+               "firstNameGirl" : "Ái,Bảo,Cẩm,Cát,Chế,Chí,Diệu,Gia,Giang,Giao,Hà,Hải,Hoài,Hồng,Huệ,Hương,Khánh,Kiều,Mai,Mỹ,Ngọc,Nhật,Quế,Phương,Thảo,Thuỳ,Gia,Uyên,Tuyết,Trúc",
+               "firstNameBoy" : "Duy,Hoài,Hoàng,Thuận,Ngọc,Đức,Tùng,Tuấn,Quang"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Loan",
+               "firstNameGirl" : "Bạch,Bích,Châu,Diệu,Hà,Hồng,Kim,Mai,Minh,Mỹ,Ngọc,Như,Phương,Thanh,Thục,Thuý,Trúc,Tuyết,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lộc",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đắc,Đức,Gia,Huy,Hữu,Minh,Phú,Quang,Tấn,Thanh,Thành,Vĩnh,Xuân"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lợi",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hữu,Đức,Thanh,Thành"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Long",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bạch,Bửu,Cao,Châu,Chí,Công,Bảo,Đình,Đức,Duy,Gia,Giang,Hưng,Khắc,Hải,Kim,Minh,Nam,Ngọc,Nguyên,Như,Nhật,Phước,Thanh,Thành,Thiên,Thiếu,Tiểu,Triệu,Trung,Trường,Tuấn,Vũ,Xuân"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lương",
+               "firstNameGirl" : "Hoàng,Khánh,Ngọc,Thiên,Tuệ,Thu",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Luân",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Thành,Minh,Thế,Khắc,Đức"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lưu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đăng,Đức,Đình,Minh,Thiên,Xuân,Ngọc"
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Ly",
+               "firstNameGirl" : "Ái,Cẩm,Hạ,Hương,Huyền,Kiều,Mai,Ngọc,Thảo,Phương",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "L",
+               "lastName" : "Lý",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Ngọc,Minh,Kim,Thiên,Thanh,Quang"
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "Mai",
+               "firstNameGirl" : "Ân,Bạch,Châu,Chi,Hạ,Hồng,Hương,Kiều,Ngọc,Phương,Quỳnh,Thanh,Thảo,Thục,Thuỷ,Trúc,Tuyết,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "Mẫn",
+               "firstNameGirl" : "Huệ,Giang,Nhan,Thục,Trí,Thanh,Trúc,Tú,Tuệ,Tường,Tuyết",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "Mạnh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đắc,Đăng,Đình,Duy,Đức,Quốc,Thiên,Sỹ"
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "Mi",
+               "firstNameGirl" : "Diễm,Hạ,Hà,Hoạ,Trà",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "Minh",
+               "firstNameGirl" : "Gia,Hà,Khánh,Ngọc,Thu,Thuỳ,Tuệ,Tường,Tuyết,Uyển",
+               "firstNameBoy" : "Anh,Cao,Bảo,Bình,Công,Đăng,Đức,Gia,Hà,Hồng,Khánh,Khôi,Ngọc,Nguyệt,Nhật,Phúc,Quốc,Tấn,Thái,Thanh,Thế,Thiện,Thuận,Tiến,Trí,Trọng,Tuấn,Việt"
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "My",
+               "firstNameGirl" : "Ái,Diễm,Diễu,Hà,Hạ,Huệ,Hiền,Khả,Khánh,Khởi,Kiều,Ngọc,Quỳnh,Thảo,Trà,Uyên",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "M",
+               "lastName" : "Mỹ",
+               "firstNameGirl" : "Ái,Khả,Huyền,Khuê,Kiều,Liên,Nhân,Phương,Thanh,Thiên,Tố,Tâm,Tường,Tuyết,Yên,Xuân",
+               "firstNameBoy" : "Cao,Đức,Toàn,Quốc"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Na",
+               "firstNameGirl" : "Bích,Diệu,Hương,Kiều,Kim,Mỹ,Minh,Ngọc,Phúc,Phương,Quỳnh,Tuyết",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nam",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Cao,Chí,Đắc,Đăng,Danh,Đình,Đức,Duy,Giang,Hải,Hoài,Hoàng,Khắc,Khánh,Nhất,Nhật,Phát,Tài,Thành,Thiện,Thuận,Thế,Tiến,Trấn,Phương,Trọng,Trung,Tuấn,Tuệ,Tường,Xuân"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nga",
+               "firstNameGirl" : "Bích,Diệu,Hằng,Hạnh,Hiền,Hồng,Hương,Kiều,Lệ,Linh,Mỹ,Ngọc,Nguyệt,Phương,Quỳnh,Thanh,Thiên,Thuý,Thuỳ,Tố,Tuệ,Tuyết,Vân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Ngân",
+               "firstNameGirl" : "Ánh,Bảo,Bích,Châu,Chi,Diễm,Diệu,Gia,Giang,Hà,Hải,Hạnh,Hiền,Hoàng,Hương,Huyền,Khả,Khánh,Kiều,Kim,Mai,Mỹ,Ngọc,Phương,Quỳnh,Thanh,Thảo,Tố,Trà,Trúc,Tú,Tuyết,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nghi",
+               "firstNameGirl" : "An,Bảo,Bích,Dung,Thảo,Phúc,Phương,Thuý,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nghĩa",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Đại,Danh,Đức,Duy,Hiếu,Hoàng,Hữu,Mạnh,Minh,Nhân,Quang,Trọng,Trung"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nghiệp",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đức,Công,Đại"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Ngọc",
+               "firstNameGirl" : "Ánh,Bách,Bảo,Diễm,Duyên,Diệu,Hồng,Khánh,Khuê,Kiều,Kim,Lam,Lan,Mai,Minh,Mỹ,Như,Phương,Thanh,Thi,Thu,Thiên,Trang,Tú,Tuyết,Vân,Xuân,Yến",
+               "firstNameBoy" : "Bạch,Bá,Bảo,Bích,Cao,Đăng,Đức,Danh,Duy,Hoàng,Quang,Tấn,Thái,Thế,Thiên,Tuấn"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nguyên",
+               "firstNameGirl" : "An,Bảo,Thanh,Thảo",
+               "firstNameBoy" : "Bá,Bảo,Bình,Bửu,Đăng,Đức,Đình,Đông,Hải,Hạnh,Hoàng,Khang,Khôi"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nguyệt",
+               "firstNameGirl" : "Ánh,Bích,Bảo,Minh,Tâm,Thanh,Thu,Thuý,Thuỷ,Trâm,Trang,Trúc,Tú",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhã",
+               "firstNameGirl" : "Bích,Duyên,Kim,Lan,Phương,Thanh,Thiên,Trâm,Trang,Trúc,Tuyết",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhàn",
+               "firstNameGirl" : "Thanh,Kim,Thu,Diệu",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhất",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Cao,Duy,Huy,Minh,Thống,Thiên"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhật",
+               "firstNameGirl" : "Bích,Hồng,Khánh,Lan,Minh,Thu,Tuyết",
+               "firstNameBoy" : "Bằng,Duy,Hà,Hoa,Khánh,Long,Nam,Phúc,Phương,Quang,Quốc,Tuấn,Minh,Việt"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhi",
+               "firstNameGirl" : "An,Bảo,Cẩm,Châu,Đông,Hương,Hà,Gia,Giang,Hương,Khả,Khánh,Kiều,Lan,Lệ,Linh,Mai,Minh,Mỹ,Ngọc,Nguyệt,Phương,Tình,Tâm,Thảo,Thục,Thuý,Tiểu,Tố,Trang,Trúc,Tuệ,Tuyết,Uyên,Vân,Xuân,Ý,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhiên",
+               "firstNameGirl" : "An",
+               "firstNameBoy" : "Đức,Hạo"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhu",
+               "firstNameGirl" : "Ánh,Bảo,Hoàng,Khánh,Kiều,Kim,Minh,Phương,Thanh,Tuyết",
+               "firstNameBoy" : "Bảo,Đức,Hoàng,Khánh,Phương"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nhung",
+               "firstNameGirl" : "Cẩm,Kim,Diệu,Hồng,Phi,Phương,Quỳnh,Thanh,Thảo,Thuỳ,Trang,Tuyết,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Ninh",
+               "firstNameGirl" : "Vũ",
+               "firstNameBoy" : "Bảo,Đăng,Lưu,Giang,Ngọc,Trung,Xuân"
+               },{
+               "firstCharacter" : "N",
+               "lastName" : "Nương",
+               "firstNameGirl" : "Diệu,My,Mỹ,Ngọc,Quý,Vân,Vũ,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "O",
+               "lastName" : "Oai",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Minh,Đình,Đăng,Ngọc,Trọng,Thiên,Thế,Quốc"
+               },{
+               "firstCharacter" : "O",
+               "lastName" : "Oanh",
+               "firstNameGirl" : "Minh,Diệu,Cẩm,Ngọc,Mỹ,Kiều,Kim,Tú,Trúc,Thuý,Thục,Thu,Phương",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phượng",
+               "firstNameGirl" : "Cát,Cẩm,Ánh,Bích,Ái,Kim,Tuyết,Thuý,Thanh,Như,Nhã,Ngọc,Mỹ,Minh,Lam,Kim,Kiều,Khánh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phương",
+               "firstNameGirl" : "Ái,Ánh,Bích,Bình,Hạ,Hà,Hải,Hiền,Hoàng,Hồng,Khánh,Kiều,Kim,Lan,Mai,Minh,Ngân,Ngọc,Nhã,Nguyệt,Nhật,Quỳnh,Thanh,Thảo,Thi,Thu,Xuân,Vân,Yến,Tuyết",
+               "firstNameBoy" : "Chi,Đắc,Đức,Bình,Giang,Gia,Hải,Hoàng,Khánh,Minh,Nam,Thành,Tùng,Tuệ"
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phước",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Nhân,Thanh,Huy,Hữu,Minh,Long,Duy,Đức,Đình,Đăng"
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phụng",
+               "firstNameGirl" : "Ngọc,Gia,Thi,Thanh,Kim,Minh,Vân,Quý,Tiểu,",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phúc",
+               "firstNameGirl" : "Kim,Vĩnh,Thanh,Trường,Trung,Ngọc,Minh,Nam,Minh,Huy,Hồng,Hiền",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phú",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Bình,Công,Đức,Gia,Minh,Ngọc,Quang.Thiên,Sỹ"
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phong",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Bảo,Chấn,Bình,Đăng,Đình,Đức,Duy,Hà,Hải,Hoàng,Khải,Nguyên,Minh,Nam,Tuấn,Thanh,Quốc,Vân"
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phi",
+               "firstNameGirl" : "Ái,Bảo,Cẩm,Hạ,Hoàng,Ngọc,Nguyệt,Nhã,Phương,Thanh,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phiên",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Thái"
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phát",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Gia,Huy,Minh,Ngọc,Nhật,Tấn,Thanh"
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phấn",
+               "firstNameGirl" : "Hạ,Ngọc,Minh,Quỳnh,Thanh,Thiên,Thu",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "P",
+               "lastName" : "Phan",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Tiến"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quán",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Thiên,Thanh"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quân",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bảo,Đình,Đăng,Đức,Đồng,Dương,Hoàng,Mạnh,Minh,Nhật,Sơn,Thanh,Thiếu"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quang",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Biên,Bình,Bửu,Chấn,Chí,Chiến,Đắc,Đại,Đăng,Đình,Đức,Duy,Hải,Hùng,Huy,Huỳnh,Khải,Minh,Nam,Ngọc,Nhật,Thanh,Trí,Vinh"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quảng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bình,Đại,Tử"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quát",
+               "firstNameGirl" : "Khắc,Bá,Minh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quế",
+               "firstNameGirl" : "Hương,Thu,Thuỳ,Diệu,Ngọc",
+               "firstNameBoy" : "Đức,Khắc,Minh,Việt"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quý",
+               "firstNameGirl" : "Anh,Bảo,Đắc,Đăng,Doãn,Đức,Nam,Phú,Thanh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quốc",
+               "firstNameGirl" : "Ái,Bảo,Bửu,Chấn,Chí,Cường,Đại,Đăng,Đình,Đức,Duy,Gia,Hải,Hoàng,Hưng,Huy,Minh,Nam,Thanh,Việt",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quyên",
+               "firstNameGirl" : "Ái,Ánh,Bảo,Bích,Hà,Khánh,Lệ,Ngọc,Nhã,Nhật,Như,Thanh,Thảo,Thục,Tố",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quyền",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Duy,Khải,Hữu,Nam,Minh,Nhân,Thanh"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quyết",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Thế,Đình,Thanh"
+               },{
+               "firstCharacter" : "Q",
+               "lastName" : "Quỳnh",
+               "firstNameGirl" : "Ánh,Bảo,Cẩm,Châu,Diễm,Gia,Giang,Giao,Hương,Khánh,Lam,Lan,Lê,Ngân,Ngọc,Nhã,Như,Phương,Thuý,Trúc,Tú",
+               "firstNameBoy" : "Đức,Gia"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sa",
+               "firstNameGirl" : "Diệp,Hải,Kiều,Minh,Trúc,Ngọc,Quỳnh",
+               "firstNameBoy" : "Đức,Trọng,Trung,Nguyên,Nam"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sắc",
+               "firstNameGirl" : "Xuân",
+               "firstNameBoy" : "Phong"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sam",
+               "firstNameGirl" : "Ngọc,Nhã,Thanh,Thu,Tuyết,Tịnh,Thuý",
+               "firstNameBoy" : "Trọng,Hải"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sâm",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Hoà,Minh,Ngọc,Nhân,Phước,Trọng,Trường"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "San",
+               "firstNameGirl" : "Diễm,Nguyệt,Ngân,Hạnh,Hải",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sang",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hải,Huỳnh,Minh,Đức,Nam,Ngọc,Thanh,Trọng"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sáng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Quang,Thanh,Thế"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sĩ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Tuấn,Ngọc,Cao"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Siêu",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Cao,Đức,Trọng"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sinh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Trọng,Đức,An"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sở",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Đình"
+               },{
+               "firstCharacter" : "S",
+               "lastName" : "Sơn",
+               "firstNameGirl" : "Anh,Bá,Bảo,Cẩm,Giang,Kỳ,Lý,Minh,Nam,Thái,Thanh,Thế,Trường,Tùng,Uy,Vân,Quang",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tài",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Chí,Công,Đức,Hữu,Long,Lưu,Mạnh,Gia,Ngọc,Phát,Nguyên,Nhân,Phương,Quân,Quang,Quý,Sinh,Sỹ,Tấn,Thế,Thiện,Tiến,Trọng,Trung,Tuấn,Viết,Vũ,Vĩnh,Xuân"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tâm",
+               "firstNameGirl" : "An,Huyền,Kiều,Nguyệt,Thanh,Thiện,Tố,Diệu,Hoài,Ân,Ánh,Băng,Bích,Mỹ,Minh,Ngọc",
+               "firstNameBoy" : "Xuân,Chính,Công,Đình,Hữu,Ngọc,Đức,Minh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tân",
+               "firstNameGirl" : "Mỹ,Ngọc,Minh,",
+               "firstNameBoy" : "Bình,Đức,Duy,Mạnh,Đức,Nhật,Ngọc,Minh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tảo",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Nhật,Minh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thái",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Công,Duy,Huy,Mạnh,Minh,Ngọc,Sơn,Thành,Uy,Vinh,Vĩnh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thắm",
+               "firstNameGirl" : "Minh,Hồng",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thăng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Đức"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thắng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Chiến,Công,Nam,Cao,Đại,Đức,Nam,Quyết,Toàn,Quang,Bảo"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thanh",
+               "firstNameGirl" : "Ân,Băng,Bảo,Bích,Bình,Cẩm,Cao,Diệu,Giang,Hà,Hiền,Hương,Kiều,Lam,Liên,Mai,Minh,Ngân,Mỹ,Ngọc,Nguyên,Nguyệt,Nhã,Phi,Phúc,Phương,Quỳnh,,Thiên,Thu,Vân,Vy,Xuân,Yến",
+               "firstNameBoy" : "Bá,Chính,Đại,Đức,Đình,Dương,Duy,Nam,Nguyên,Quang,Quốc,Quý"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thành",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Công,Đại,Đăng,Đạo,Đức,Hoàng,Phương,Nam"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thảo",
+               "firstNameGirl" : "Bích,Diệp,Minh,Mai,Mỹ,Ngân,Nguyệt,Như,Phương,Thanh,Vân,Yến",
+               "firstNameBoy" : "Bá,Đức,Minh,Xuân"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thế",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đức,Duy,Minh,Ngọc,Thanh,Thành,Uy"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thi",
+               "firstNameGirl" : "Ân,Bảo,Giao,Hạnh,Khánh,Minh,Ngọc,Nguyệt,Phương,Xuân,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thiên",
+               "firstNameGirl" : "Mỹ,Ngọc,Nhã,Ý",
+               "firstNameBoy" : "Bá,Bảo,Đăng,Đạt,Đức,Hoa,Khánh,Minh,Mạnh,Nam,Phú,Hoàng,Thanh,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thiện",
+               "firstNameGirl" : "Ngọc,Tâm,Nhã",
+               "firstNameBoy" : "Bá,Chí,Đăng,Đức,Duy,Hùng,Huy,Long,Minh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thiết",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Hữu,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thịnh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bảo,Cường,Đức,Gia,Khương,Ngọc,Phúc,Bá,Đức,Hữu"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thọ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Hữu,Thế"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thông",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đình,Đăng,Đạt,Đức,Duy,Hải,Minh,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thu",
+               "firstNameGirl" : "Anh,Bảo,Diệp,Giang,Hà,Huyền,Kiều,Mai,Minh,Ngọc,Nguyệt,Nhã,Nhật,Vân,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thư",
+               "firstNameGirl" : "Anh,Bảo,Diễm,Hạnh,Minh,Nam,Nhã,Quỳnh,Thiên,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thứ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Xuân,Quang,Đăng"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thuần",
+               "firstNameGirl" : "Diệu",
+               "firstNameBoy" : "Như,Đức,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thuận",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "An,Bảo,Minh,Đức,Duy,Chính,Bình"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thức",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đình,Duy,Quang,Duy,Trọng,Thanh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thuương",
+               "firstNameGirl" : "Mai,Minh,Ngọc,Nguyệt,Nhất,Hoài,Diệu,Bảo",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thuý",
+               "firstNameGirl" : "Hồng,Diệu,Thu,Thanh,Phương,Nguyệt,Ngọc,Minh,Mai,Kiều,Diễm,Anh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thuỳ",
+               "firstNameGirl" : "Châu,Diễm,Diệu,Dương,Giang,Lâm,Mai,Minh,Ngân,Nghiêm,Nhã,Phương,Thu",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thuỷ",
+               "firstNameGirl" : "Diệu,Bạch,Bích,Cát,Khánh,Mai,Nguyệt,Như,Thanh,Thu,Xuân,Yến",
+               "firstNameBoy" : "Đức,Thế,Thanh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Thy",
+               "firstNameGirl" : "Uyên,Mai,Hạnh,Bảo",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tiên",
+               "firstNameGirl" : "An,Diệu,Bảo,Cát,Thuỷ,Thảo,Ngọc,Mỹ,Khánh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tiến",
+               "firstNameGirl" : "Đại,Bá,Bảo,Đình,Đoàn,Đức,Hoàng,Khải,Minh,Nam,Trung,Quang",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tín",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Mạnh,Duy,Chí,Bảo"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tình",
+               "firstNameGirl" : "Phương,Xuân",
+               "firstNameBoy" : "Đức,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Toàn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bảo,Đức,Minh,Công,Khánh,Hữu,Khải"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Toản",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Thế,Đức,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tôn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Thế,Đức,Minh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trà",
+               "firstNameGirl" : "Hạnh,Hương,Ngân,Phương,Thu,Thanh,Thuý,Vân,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trai",
+               "firstNameGirl" : "Ngọc",
+               "firstNameBoy" : "Ngọc"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tràm",
+               "firstNameGirl" : "Hương,Thanh,Diệu",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trâm",
+               "firstNameGirl" : "Bảo,Bích,Hạ,Hạnh,Kiều,Minh,Mỹ,Nguyệt,Ngọc,Quỳnh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trân",
+               "firstNameGirl" : "Diệu,Bảo,Bích,Huyền,Ngọc,Nguyệt",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trang",
+               "firstNameGirl" : "Bảo,Bích,Đài,Đoan,Hạ,Huyền,Kiều,Mai,Minh,Ngọc,Nguyệt,Nhã,Phương,Quỳnh,Thảo,Thu,Thuý,Vân,Yến",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trí",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Thanh,Hữu,Đại,Dân,ĐìnhMinh,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Triết",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Minh,Nhật,Thanh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Triều",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Giang,Hải,Hữu,Minh,Quân,Quang,Vương"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trinh",
+               "firstNameGirl" : "Diễm,Kiều,Lan,Ngọc,Nguyệt,Nhã,Phương,Việt",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trọng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Bình,Đình,Đức,Huy,Khải,Kim,Minh,Nam,Nghĩa,Nhân,Thế,Sang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trúc",
+               "firstNameGirl" : "Băng,Bảo,Diễm,Diệp,Giang,Kiều,Kim,Lan,Mai,Ngân,Nguyệt,Quỳnh,Thanh,Tú,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trung",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Thế,Hữu,Chí,Đình,Đức,Gia,Kiên,Minh,Nam,Nghĩa,Quang,Quốc"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trường",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Đức,Duy,Long,Minh,Nhật,Phúc,Quang,Quốc,Sơn,Xuân"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trưởng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bá,Đại,Hữu,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Trượng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Quang,Hữu"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tú",
+               "firstNameGirl" : "Anh,Băng,Bảo,Cẩm,Diệp,Giang,Khả,Khuê,Kiều,Kim,Lan,Minh,Ngọc,Nguyệt,Nhân,Quỳnh,Thanh,Uyên,Vân",
+               "firstNameBoy" : "Đình,Minh,Ngọc,Nam,Nhân,Thanh,Tuấn"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuân",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Ngọc,Hữu"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuấn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bảo,Khải,Long,Minh,Ngọc,Quang,Quốc"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuệ",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Cát,Giang,Lâm,Mẫn,Minh,Mỹ,Ngân,Nguyệt,Phương,Nhã"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tùng",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bảo,Đức,Huy,Minh,Phương,Sơn,Thanh,Quang"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuyên",
+               "firstNameGirl" : "Hạnh,Kiều,Minh,Nhật,Phương,Xuân",
+               "firstNameBoy" : "Bảo,Hà,Hải,Hạnh,Hồng,Kiều,Minh,Nhật,Phương,Xuân"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuyến",
+               "firstNameGirl" : "Hải,Kim,Lan,Thanh,Nhật",
+               "firstNameBoy" : "Hải,Nhật,Quang,Thanh"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuyền",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Ngọc,Thanh,Hữu,Đức,Công"
+               },{
+               "firstCharacter" : "T",
+               "lastName" : "Tuyết",
+               "firstNameGirl" : "Ánh,Bạch,Đào,Kiều,Kim,Lan,Minh,Ngân,Ngọc,Phương,Thanh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "U",
+               "lastName" : "Uyên",
+               "firstNameGirl" : "Bảo,Bình,Cẩm,Diễm,Đào,Hải,Khánh,Lâm,Mai,Mẫn,Mỹ,Phúc,Thanh,Thảo,Thu,Thuý,Trúc,Tú,Tường,Vân,Bảo,Thanh,Minh,Ngọc,Vy,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "U",
+               "lastName" : "Uyển",
+               "firstNameGirl" : "Châu,Diệu,Lộc,Minh,Mộng,My,Ngân,Ngọc,Nguyệt,Như,Phương,Tâm,Thanh,Thái",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vân",
+               "firstNameGirl" : "Ánh,Bích,Diệu,Hà,Hoài,Hồng,Khánh,Kiều,Mai,Minh,Mỹ,Ngọc,Nhã,Phong,Phương,Quỳnh,Thảo,Thanh,Thu,Thục,Thuỳ,Thuý,Trúc,Tú,Tường,Tuyết,Ý,",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Văn",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Thanh,Thế,Đức,Ngọc,Nghĩa,Hoàng,Hướng,Đình"
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vi",
+               "firstNameGirl" : "Hạ,Khánh,Thảo,Trúc,Tường,Hoài,Thanh,Phương",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Viên",
+               "firstNameGirl" : "Diệu,An,Thanh",
+               "firstNameBoy" : "Đình,Đức"
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Việt",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Anh,Bá,Bách,Bảo,Bích,Đức,Duy,Hải,Hoàng,Hữu,Khải,Lâm,Long,Mạnh,Minh,Nhật,Phúc,Quang,Thanh,Trí,Trung,Tuấn,Quốc,Xuân"
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vinh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Bảo,Công,Diệu,Đình,Đức,Hoàng,Hồng,Hữu,Kiến,Mạnh,Phong,Phú,Phúc,Quang,Tấn,Thái,Thanh,Thế,Tiến,Tuấn,Quốc,Xuân"
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vĩnh",
+               "firstNameGirl" : "",
+               "firstNameBoy" : "Đức,Hữu,Thành,Ngọc,Phúc,Tiến,Xuân"
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Võ",
+               "firstNameGirl" : "Bá,Đức,Duy,Gia,Huy,Kim,Minh,Ngọc,Nguyên,Quang,Trung,Tấn",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vũ",
+               "firstNameGirl" : "Anh,Hoàng,Khoa,Long,Đức,Minh,Ngân,Thanh,Uy",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vương",
+               "firstNameGirl" : "Bá,Thiên,Thanh,Đức,Minh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vượng",
+               "firstNameGirl" : "Bá,Đình,Đức,Duy,Gia,Hữu,Phú,Minh,Phúc,Quang,Quốc,Tấn,Thanh,Thịnh,Thiên",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "V",
+               "lastName" : "Vy",
+               "firstNameGirl" : "Ái,Hạ,Nguyệt,Phương,Thanh,Thuỳ,Trúc,Yến,Thanh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "X",
+               "lastName" : "Xuân",
+               "firstNameGirl" : "Ái,Ánh,Hoài,Khánh,Kiều,Mỹ,Kim,Ngọc,Nguyệt,Nhã,Như,Phúc,Quỳnh,Thanh,Thảo,Thi,Thường,Trúc,Ý,Yến",
+               "firstNameBoy" : "Thế,Bá,Đức,Việt,Vĩnh"
+               },{
+               "firstCharacter" : "X",
+               "lastName" : "Xuyến",
+               "firstNameGirl" : "Bảo,Minh,Ngọc,Kim,Thanh",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "Y",
+               "lastName" : "Yến",
+               "firstNameGirl" : "Bảo,Châu,Diệu,Hải,Hoài,Hồng,Khả,Kim,Mai,Ngân,Ngọc,Như,Phi,Quỳnh,Thảo,Thu,Thục,Thy,Trúc,Tuệ,Vân,Vy,Xuân",
+               "firstNameBoy" : ""
+               },{
+               "firstCharacter" : "Y",
+               "lastName" : "Ý",
+               "firstNameGirl" : "Như,Nguyệt",
+               "firstNameBoy" : ""
+               }
+        ]
+}

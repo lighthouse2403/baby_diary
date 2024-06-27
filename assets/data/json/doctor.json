@@ -1,0 +1,177 @@
+{
+    "doctor_list" : [
+        {
+            "address" : "125 Thái Thịnh, Đống Đa, Hà Nội",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Ở đây có rất nhiều bác sỹ giỏi, rất nổi tiếng, dịch vụ nhanh, siêu âm hình ảnh 4D-5D, có cả đĩa CD siêu âm mang về. Có thể nói là địa chỉ khám thai tin tưởng của nhiều mẹ bầu sau sinh hiện nay ở Hà Nội.\n  Bác sỹ Chương: điện thoại 0913.270.404\n  Bác sỹ Kha Thị Trâm (Phòng khám VIP tầng 2). Điện thoại: 0988.567.657.</body></html>",
+            "id" : "125thaithinh",
+            "image" : "125ThaiThinh",
+            "name" : "Phòng khám 125 Thái Thịnh",
+            "phone" : "024.3853.5522",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "21 Vạn Phúc - Liễu Giai - Ba Đình - Hà Nội",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Làm việc từ 5giờ chiều các ngày, Thứ 7,CN khám buổi sáng hoặc khám cả ngày tùy thuộc vào từng tuần.</body></html>",
+            "id" : "anhnd",
+            "image" : "anhnd",
+            "name" : "Bs Nguyễn Duy Ánh",
+            "phone" : "024.3762.8999",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "15 Liên Trì - Trần Hưng Đạo - Hoàn Kiếm - Hà Nội",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>BS Chương thì khỏi nói rồi nhưng bác ấy chỉ siêu âm các mốc quan trọng như 12.22.32 tuần thôi (với lại chỉ siêu âm chứ không khám).Với các mốc quan trọng khám BS Chương rất ổn. Ngoài ra các bạn có thể tìm chọn BS riêng để mình khám định kỳ (khám định kỳ tức là thời gian đầu cứ 4w/lần, thai lớn hơn thì 2w/lần, 1w/lần tùy chỉ định của BS mình theo).Ngày thường 2,3,4,5,6- từ 4H30 đến 19H30, Thứ 7- Sáng- Từ 8H30 đến 11H30/ Chiều: Từ 15h đến 19h, Chủ nhật- Chiều: Từ 15h đến 19h.</body></html>",
+            "id" : "chuongdh",
+            "image" : "",
+            "name" : "Bs Dương Hồng Chương - Bệnh viện Việt Nhật",
+            "phone" : "024.2218.5741",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "87 Nguyễn Du, Phòng khám Bảo An ở Đào Tấn",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bác sĩ Nguyễn Cảnh Chương được đánh giá có chuyên môn sâu về siêu âm sàng lọc trước sinh. Bên cạnh đó, nhiều thai phụ hài lòng về cách tư vấn nhẹ nhàng, ôn tồn và đôi khi hài hước của bác sĩ. Tuy nhiên, cũng có ý kiến cho rằng bác sĩ khám và tư vấn chưa kỹ càng trong một số trường hợp.\n  Bác sĩ Cảnh Chương hiện đang khám tại một số địa chỉ như: Phòng khám 87 Nguyễn Du, Phòng khám Bảo An ở Đào Tấn. Ngoài ra, bác sĩ hiện công tác tại Bệnh viện Phụ Sản Hà Nội.</body></html>",
+            "id" : "chuongnc",
+            "image" : "chuongnc",
+            "name" : "Bs Nguyễn Cảnh Chương",
+            "phone" : "",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "12 Phố Tôn Thất Thiệp (gần đường Điện Biên Phủ) - Hà Nội",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bác này nổi tiếng về siêu âm chẩn đoán hình ảnh, dị tật và giới tính. Nhiều mẹ bầu rất tin tưởng bác vì chẩn đoán rất chính xác. Dịch vụ khám rất tuyệt. Nhưng cũng vì nhiều người đổ xô đến nên rất đông, phải đợi lâu mới đến lượt.</body></html>",
+            "id" : "cuongtd",
+            "image" : "cuongtd",
+            "name" : "Bs Trần Danh Cường",
+            "phone" : "024.2240.3224",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "Số nhà 30/2 ngõ 26 Hoàng Quốc Việt",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>- Lịch khám của bác:\n  + T2- T6 : khám từ 6h30 tối đến hết số\n  + Chủ nhật: khám từ 7h30 sáng đến hết số\n- Đặt số khám:\n  + Sđt đặt số : 0422378888\n  + Thời gian đặt số: từ 2h-3h hàng ngày. Đặt số khám trước 1 ngày, vd khám thứ 6 thì đặt khám vào thứ 5, khám chủ nhật thì đặt khám vào thứ 6</body></html>",
+            "id" : "ducpd",
+            "image" : "ducpd",
+            "name" : "BS Phạm Đức Dục - Viện C",
+            "phone" : "024.2237.8888",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "21 Phan Chu Trinh - 11 Phan Chu Trinh(tầng 1 của cấp cứu 115-HN)",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Nguyên là Phó Giám đốc Bệnh viện Từ Dũ</body></html>",
+            "id" : "dung",
+            "image" : "",
+            "name" : "Bs Dung",
+            "phone" : "024.3933.2456",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "387 Kim Ngưu",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>gọi điện từ 6h30 – 8h sáng để đặt số và khám từ 14h</body></html>",
+            "id" : "dungpd",
+            "image" : "dungpd",
+            "name" : "Bs Phạm Đình Dũng",
+            "phone" : "",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "15/46 Hoàng Hoa Thám, P.13, Q. Tân Bình (cạnh chợ Hoàng Hoa Thám)",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Nguyên là Phó Giám đốc Bệnh viện Từ Dũ</body></html>",
+            "id" : "duyenlt",
+            "image" : "",
+            "name" : "Bs Lưu Thế Duyên",
+            "phone" : "0987517091",
+            "rank" : "",
+            "star" : ""
+        },
+        {
+            "address" : "Ngõ 4 Phạm Tuấn Tài (Gần chợ Nhà Xanh)",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bs nhẹ nhàng mà cũng cẩn thận.</body></html>",
+            "id" : "hanh",
+            "image" : "",
+            "name" : "Bs Hạnh - Phó Khoa D3 BVPS",
+            "phone" : "",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "87-A2 Đô thị Đại Kim - Định Công - Hoàng Mai - Hà Nội",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Nguyên là Phó Giám đốc Bệnh viện Từ Dũ</body></html>",
+            "id" : "khanhvc",
+            "image" : "khanh",
+            "name" : "Bs Vũ Công Khanh",
+            "phone" : "024.3996.3641",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "26 ngõ 30, Nguyễn Đình Chiểu, Hai Bà Trưng, Hà Nội",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bác sĩ Ngọc Lan là chuyên gia có hơn 30 năm kinh nghiệm trong nghề, riêng trong lĩnh vực phụ khoa, bác sĩ Ngọc Lan có nhiều kinh nghiệm, chuyên sâu trong chẩn đoán, điều trị và phẫu thuật phụ khoa; đặc biệt là các phẫu thuật nội soi: phẫu thuật nội soi điều trị chửa ngoài tử cung, u nang buồng trứng, u xơ tử cung, phẫu thuật vô sinh, phẫu thuật sa sinh dục, phẫu thuật dị dạng sinh dục.</body></html>",
+            "id" : "landtn",
+            "image" : "landtn",
+            "name" : "Bs Đỗ Thị Ngọc Lan",
+            "phone" : "024.3974.5150",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "6 ngõ 23 Cát Linh, Cát Linh, Đống Đa, Hà Nội",
+            "full_description" : "Đi khám thì tôi thấy phòng khám vệ sinh sạch sẽ, đợi khám nhanh. Bác sĩ Nguyệt có tuổi nên thái độ tốt.",
+            "id" : "nguyetnm",
+            "image" : "nguyetnm",
+            "name" : "Bs Nguyễn Minh Nguyệt",
+            "phone" : "0903234229",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "số nhà 28 lô 6 Trung yên III, Trung hòa, Cầu giấy",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bệnh viện Việt Nhật cũng là PGS-TS, vợ là BS Hiền -viện C, 2 vc khám ở tại nhà , cả 2 đều rất nhẹ nhàng, phòng khám không đông lắm, nên k chờ lâu quá, SA 2D. lịch khám 2-4-6 từ 17-19h, chủ nhật từ 14-18h đ/c: số nhà 28 lô 6 trung yên III, trung hòa, cầu giấy. Ngoài ra BS siêu âm 4D tại 18 Hàng lược vào sáng CN</body></html>",
+            "id" : "nhapb",
+            "image" : "nhapb",
+            "name" : "Bs Phạm Bá Nha",
+            "phone" : "024.3996.3641",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "Bệnh viện Đa khoa Hồng Ngọc",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bác sĩ có kinh nghiệm lâu năm trong ngành, được nhiều bà mẹ đánh giá là khám nhẹ nhàng và cận thận. Bác sĩ hiện có lịch khám tại bệnh viện Đa khoa Hồng Ngọc và một vài địa chỉ khác.\n  Ngoài ra, bác sĩ - thầy thuốc ưu tú Phan Văn Quý đạt danh hiệu Thầy thuốc ưu tú do Nhà nước trao tặng vì những đóng góp cho sự nghiệp và sự phát triển của Y học Việt Nam.</body></html>",
+            "id" : "quypv",
+            "image" : "",
+            "name" : "Bs Phan Văn Qúy",
+            "phone" : "",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "Đường Phương Mai, sát ngay bên cổng sau của Bệnh Viện Bạch Mai.",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Địa chỉ phòng khám Bác sĩ Thực ở trong Bệnh viện Lão Khoa Trung ương, trên đường Phương Mai, cạnh cổng sau Bệnh viện Bạch Mai và Bệnh viện Việt - Pháp. Bác sĩ Thực nổi tiếng về khám siêu âm thai nhẹ nhàng, cẩn thận và dự kiến ngày sinh chuẩn.\n  Phòng khám bác sĩ Thực thường phải chờ hơi lâu. Tuy nhiên, các mẹ nên đến trong khoảng 11h-11h30 thì không cần phải chờ lâu quá. Giờ đó không còn nhiều người chờ khám mà bác sĩ vẫn khám cho đến 12h và đến hết người đang chờ.</body></html>",
+            "id" : "thucdv",
+            "image" : "",
+            "name" : "Bs Đỗ Văn Thực",
+            "phone" : "0987517091",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "38 Ngõ Huyện (Rất rất đắt!!!)",
+            "full_description" : "Rất rất đắt!!!",
+            "id" : "tuan",
+            "image" : "",
+            "name" : "Bs Tuấn",
+            "phone" : "",
+            "rank" : "",
+            "star" : ""
+        },{
+            "address" : "89B, dốc Bệnh Viện Phụ Sản Hà Nội (đường Đê La Thành)",
+            "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Bác sỹ Vỹ siêu âm cũng rất chuẩn nhất là về giới tính. Đặc biệt bác sỹ tính tình rất thoải mái, vui vẻ, không cáu gắt (cũng phải chờ lâu nhất là vào giờ cao điểm). Ở đây không cho lấy số trước mà bắt phải đợi.</body></html>",
+            "id" : "vydh",
+            "image" : "vydh",
+            "name" : "Bs Đinh Hùng Vỹ",
+            "phone" : "024.3775.6010",
+            "rank" : "",
+            "star" : ""
+        }
+    ]
+}
+

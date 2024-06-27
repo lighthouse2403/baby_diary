@@ -1,0 +1,38 @@
+{
+"vitamin" : [{
+    "name" : "Elevit",
+    "short_description" : "Elevit có xuất xứ từ Úc.",
+    "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'><li>- Elevit có xuất xứ từ Úc, với hàm lượng acid folic cao được cho là có tác dụng giảm đến 92% rủi ro với các bệnh liên quan đến ống thần kinh như tật nứt đốt sống cho bà bầu và thai nhi. Ngoài ra, elevit còn cũng giúp bà bầu ngăn ngừa thiếu chất sắt hữu hiệu và hỗ trợ sự phát triển hoàn thiện bộ não thai nhi.</li><li>- Một người đã từng sử dụng vitamin tổng hợp này chia sẻ: 'Elevit dùng thì tốt rồi, các bà bầu ở Úc thường được kê dùng thuốc này và mình cũng được chị bạn mách cho. Công nhận là uống vào mẹ khỏe, con khỏe, con sinh ra không hay ốm vặt và khá chắc chắn.'</li><li>- Tuy nhiên các mẹ cũng lưu ý chị em nếu có ý định sử dụng elevit nên tham khảo kỹ nguồn gốc của thuốc bởi tại thị trường Việt Nam, nguồn gốc thuốc khá mập mờ, nếu có thể đặt được hàng tại Úc là tốt hơn cả.</li><li>- Ngoài ra, vì trong thành phần của elevit ít DHA nên từ quý thứ 2 thai kỳ, nếu mẹ vẫn sử dụng elevit thì có thể sẽ được bác sĩ kê thêm thuốc bổ sung DHA vì từ giai đoạn này, DHA rất quan trọng với sự phát triển não bộ của thai nhi.</li><li>- Ngoài những ưu điểm trên, một số mẹ bầu than phiền rằng có thể do elevit quá nhiều chất nên thường gây hiện tượng táo bón, khá khó chịu khi sử dụng.</li></ul></span></body></html>",
+     "image" : "elevit"
+   },{
+   "name" : "Nature Made Prenatal Multi + DHA",
+   "short_description" : "Đây là loại vitamin tổng hợp cho bà bầu nổi tiếng của Mỹ",
+   "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'><li>- Với đầy đủ các dưỡng chất cần thiết cộng với thành phần DHA nên Prenatal Multi + DHA của Nature Made cũng được nhiều mẹ bầu lựa chọn. Đây là loại vitamin tổng hợp cho bà bầu nổi tiếng của Mỹ.</li><li>- 'Chính bác sĩ đã kê cho mình loại thuốc bổ sung vitamin tổng hợp Prenatal Multi + DHA. Loại vitamin tổng hợp này sản xuất với đủ lượng vitamin và mình thì yên tâm nhất ở chỗ thuốc có DHA cho thai nhi, các loại khác ít có DHA, chỉ có axit folic thì không đủ.', một mẹ bầu chia sẻ.</li><li>- Một ưu điểm nữa của sản phẩm là giá thành khá phải chăng, khoảng 400-500 nghìn VNĐ một lọ 150 viên uống trong 3 tháng. Tuy nhiên cũng giống như nhiều loại thuốc bổ khác, Prenatal Multi + DHA cũng chứa nhiều chất và có thể gây táo bón nên mẹ bầu cần chú ý uống nhiều nước, ăn nhiều rau xanh trong chế độ ăn uống mỗi ngày.</li></ul></span></body></html>",
+     "image" : "nature_made_prenatal"
+     },{
+     "name" : "Blackmores Pregnancy Gold",
+     "short_description" : "Đây là loại vitamin tổng hợp cho bà bầu nổi tiếng của Mỹ",
+     "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'><li>- Cũng giống như 2 loại vitamin tổng hợp trên, Blackmores Pregnancy Gold cũng chứa đầy đủ các dưỡng chất cần thiết cho mẹ bầu và thai nhi như axit foilic, sắt, canxi, iodine, DHA… Một ưu điểm được nhiều mẹ bầu sử dụng thuốc này cho biết đó là viên thuốc Blackmores Pregnancy Gold vừa phải, không quá to như các loại vitamin tổng hợp khác nên dễ dàng uống hơn.</li><li>- Dù vậy cũng như các loại thuốc xách tay khác, khi muốn sử dụng Blackmores Pregnancy Gold, các mẹ nên tìm hiểu nguồn hàng uy tín hoặc đặt hàng xách tay trực tiếp để tránh mua phải hàng nhái.</li></ul></span></body></html>",
+     "image" : "blackmores"
+     },{
+     "name" : "Obimin",
+     "short_description" : "Hầu hết các bà mẹ sử dụng đều hài lòng và không hề than phiền về chứng táo bón.",
+     "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'><li>- Thuốc bổ Obimin cho bà bầu được một lượng lớn phụ nữ có thai sử dụng bởi nó có chứa đầy đủ những loại dưỡng chất cần thiết mà giá thành khá phải chăng, khoảng 180-200 nghìn VNĐ/hộp.</li><li>- Hầu hết các bà mẹ sử dụng đều hài lòng và không hề than phiền về chứng táo bón như các loại thuốc bổ sung vitamin tổng hợp khác.</li></ul></span></body></html>",
+     "image" : "obimin"
+     },{
+     "name" : "Procare",
+     "short_description" : "Procare khá phổ biến ở Việt Nam và được nhiều bác sĩ kê cho bà mẹ từ khi có ý định mang thai cho đến suốt thời gian cho con bú.",
+     "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'><li>- Cũng giống như Obimin, thuốc bổ cho bà bầu procare khá phổ biến ở Việt Nam và được nhiều bác sĩ kê cho bà mẹ từ khi có ý định mang thai cho đến suốt thời gian cho con bú. Giá cả của loại thuốc này cũng khá phải chăng, khoảng 200-230 nghìn VNĐ/lọ.</li><li>- 'Cả 2 lần mang thai mình đều sử dụng procare theo đơn của bác sĩ. Trộm vía con sinh ra đứa nào cũng kháu khỉnh, nhanh nhẹn, không biết có phải do procare không nữa.', một bà mẹ chia sẻ.</li></ul></span></body></html>",
+     "image" : "procare"
+     },{
+     "name" : "Sữa Bà Bầu Morinaga Nhật Vị Trà Xanh, Trà Sữa, Cà Phê (Socola)",
+     "short_description" : "Loại sữa này có rất nhiều hương vị và mùi khác nhau và khá dễ uống.",
+     "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'>Loại sữa này có rất nhiều hương vị và mùi khác nhau, các mẹ thoải mái chọn lựa sao cho phù hợp với khẩu vị của bản thân mình. Đôi khi các mẹ có thể chọn mua nhiều mùi vị một lúc để có thể uống thay đổi liên tục trong ngày giúp các mẹ bầu không bị ngán khi uống sữa bầu morinaga.Sữa có 4 mùi vị cơ bản:<li>- Vị trà xanh (hộp giấy có mầu xanh)</li><li>- Vị trà sữa (hộp giấy có màu hồng hơi đậm)</li><li>- Vị sữa chua, có mùi chanh tươi dễ uống (hộp giấy đóng gói màu vàng)</li><li>- Vị cafe + bánh bích quy nướng (màu nâu)', một bà mẹ chia sẻ.</li></ul></span></body></html>",
+     "image" : "morinaga"
+     },{
+     "name" : "Canxi Corbiere (Dạng Ống/Nước/Sủi) Cho Bà Bầu",
+     "short_description" : "Chúng có chứa thành phần Calcium Glucoheptonate – là can xi hữu cơ dễ hấp thu và đào thải nếu dư thừa nhất.",
+     "full_description" : "<!DOCTYPE html><html><body style='font-size:18px;'><li>- Thuốc canxi corbiere rất tốt cho phụ nữ mang thai và phụ nữ đang cho con bú. Chúng có chứa thành phần Calcium Glucoheptonate – là can xi hữu cơ dễ hấp thu và đào thải nếu dư thừa nhất.</li><li>- Bà bầu nên dùng thuốc calcium corbiere từ tuần 20 của thai kỳ thôi nhé.</li></ul></span></body></html>",
+     "image" : "canxi_corbiere"
+     }]
+}
