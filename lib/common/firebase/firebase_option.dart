@@ -16,21 +16,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDrRweKvifzeavtD3yRbJnn_V5n9TWnLy8',
-    appId: '1:705561206687:android:9ad25565ef2804d9fbe7aa',
-    messagingSenderId: '490028130190',
-    projectId: 'com.beacon.pregnancy',
-    storageBucket: 'pregnancyflutter.appspot.com',
+    apiKey: 'AIzaSyDy_vl3OTNQZcq9RV1z04nhhNkQpsccqxs',
+    appId: '1:842547168180:ios:86b71c5caabae9a2',
+    messagingSenderId: '842547168180',
+    projectId: 'baby-diary-8c5fb',
+    storageBucket: 'baby-diary-8c5fb.appspot.com',
     androidClientId: '705561206687-qg12gj5top8l19cjq3mrgttlh0v59eod.apps.googleusercontent.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBX1eL7q-u2l7s3CmlFqh2KPEvRj2B3_5I',
-    appId: '1:705561206687:ios:c4bd4ca65efbd229fbe7aa',
-    messagingSenderId: '705561206687',
-    projectId: 'pregnancyflutter',
-    storageBucket: 'pregnancyflutter.appspot.com',
-    iosClientId: 'com.googleusercontent.apps.705561206687-laaee3rl71n6bdvfchavbqer3eb29m4c',
-    iosBundleId: 'com.beacon.pregnancy',
+    apiKey: 'AIzaSyDy_vl3OTNQZcq9RV1z04nhhNkQpsccqxs',
+    appId: '1:842547168180:ios:86b71c5caabae9a2',
+    messagingSenderId: '842547168180',
+    projectId: 'baby-diary-8c5fb',
+    storageBucket: 'baby-diary-8c5fb.appspot.com',
+    iosClientId: 'com.googleusercontent.apps.842547168180-gimnk7t793bpcpcmhck7uc5cmksu4lbo',
+    iosBundleId: 'baby.diary',
   );
 }

@@ -46,7 +46,7 @@ class AdsHelper {
     AdsHelper.interstitialAd = null;
 
     InterstitialAd.load(
-      adUnitId: interstitialAdUnitId,
+      adUnitId: _interstitialAdUnitId,
       request: const AdRequest(),
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (ads) {
@@ -59,7 +59,7 @@ class AdsHelper {
     );
   }
 
-  String get bannerAdUnitId {
+  String get _bannerAdUnitId {
     if (Platform.isAndroid) {
       return 'ca-app-pub-7356825362262138/8189974769';
     } else if (Platform.isIOS) {
@@ -69,9 +69,9 @@ class AdsHelper {
     }
   }
 
-  String get interstitialAdUnitId {
+  String get _interstitialAdUnitId {
     if (Platform.isAndroid) {
-      return "ca-app-pub-7356825362262138/4386461123";
+      return "ca-app-pub-7356825362262138/8558679271";
     } else if (Platform.isIOS) {
       return "ca-app-pub-7356825362262138/7599234678";
     } else {

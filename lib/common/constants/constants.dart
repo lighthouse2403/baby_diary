@@ -66,11 +66,7 @@ class Constants {
   ];
 
   static List<BottomTabBarItem> bottomTabBarItems = [
-    BottomTabBarItem(Assets.icons.home, 'Trang chủ'),
-    BottomTabBarItem(Assets.icons.baby, 'Thai kỳ'),
-    BottomTabBarItem(Assets.icons.diary, 'Nhật ký'),
-    BottomTabBarItem(Assets.icons.weight, 'Kiến thức'),
-    BottomTabBarItem(Assets.icons.calendar, 'Diễn đàn'),
+    BottomTabBarItem(Assets.icons.chat, 'Diễn đàn'),
   ];
 
   /// Color

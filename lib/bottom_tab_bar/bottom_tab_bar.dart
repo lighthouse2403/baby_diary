@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:baby_diary/calendar/container/single_day_container.dart';
 import 'package:baby_diary/chat/chat.dart';
 import 'package:baby_diary/common/constants/constants.dart';
 import 'package:baby_diary/common/extension/font_size_extension.dart';
 import 'package:baby_diary/common/extension/font_weight_extension.dart';
 import 'package:baby_diary/common/extension/text_color_extension.dart';
 import 'package:baby_diary/common/firebase/firebase_user.dart';
-import 'package:baby_diary/diary/diady_list.dart';
-import 'package:baby_diary/home/home.dart';
 
 class MainBottomTabBar extends StatefulWidget {
   const MainBottomTabBar({super.key});

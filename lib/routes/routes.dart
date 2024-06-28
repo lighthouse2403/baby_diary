@@ -1,3 +1,4 @@
+import 'package:baby_diary/bottom_tab_bar/bottom_tab_bar.dart';
 import 'package:baby_diary/routes/route_name.dart';
 import 'package:flutter/material.dart';
 
@@ -55,6 +56,8 @@ class Routes {
   static Route<dynamic>? generateRoute(RouteSettings settings) {
     String routeName = settings.name ?? '';
     switch (routeName) {
+      case RoutesName.tabBarRoute:
+        return _pageRoute(page: const MainBottomTabBar(), setting: settings);
 
       // case RoutesName.diaryDetail:
       //     Diary? diary = settings.arguments as Diary?;
