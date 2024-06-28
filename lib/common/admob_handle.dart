@@ -59,16 +59,6 @@ class AdsHelper {
     );
   }
 
-  String get _bannerAdUnitId {
-    if (Platform.isAndroid) {
-      return 'ca-app-pub-7356825362262138/8189974769';
-    } else if (Platform.isIOS) {
-      return 'ca-app-pub-7356825362262138/8189974769';
-    } else {
-      throw UnsupportedError('Unsupported platform');
-    }
-  }
-
   String get _interstitialAdUnitId {
     if (Platform.isAndroid) {
       return "ca-app-pub-7356825362262138/8558679271";
