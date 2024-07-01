@@ -35,7 +35,7 @@ class _HomeItemState extends State<HomeItem> with SingleTickerProviderStateMixin
             Routes.instance.navigateTo(RoutesName.babyKickList);
             break;
           case 4:
-            Routes.instance.navigateTo(RoutesName.doctor);
+            Routes.instance.navigateTo(RoutesName.babyWeightList);
             break;
           case 5:
             Routes.instance.navigateTo(RoutesName.babyWeightList);

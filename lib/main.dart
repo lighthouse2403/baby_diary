@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(name: 'Baby Diary',options: DefaultFirebaseOptions.currentPlatform);
+  await Firebase.initializeApp(name: 'BabyDiary',options: DefaultFirebaseOptions.currentPlatform);
   runApp(const BabyDiary());
 }
 

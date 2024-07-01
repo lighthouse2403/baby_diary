@@ -35,7 +35,7 @@ class _HomeState extends BaseStatefulState<Home> {
             },
             child: InkWell(
               onTap: () {
-                Routes.instance.navigateTo(RoutesName.babyInformation).then((value) {
+                Routes.instance.navigateTo(RoutesName.babyWeightList).then((value) {
                   homeBloc.add(InitBabyEvent());
                 });
               },

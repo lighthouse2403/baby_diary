@@ -67,6 +67,7 @@ class Constants {
 
   static List<BottomTabBarItem> bottomTabBarItems = [
     BottomTabBarItem(Assets.icons.chat, 'Diễn đàn'),
+    BottomTabBarItem(Assets.icons.chat, 'Diễn đàn'),
   ];
 
   /// Color

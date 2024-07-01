@@ -1,4 +1,5 @@
 import 'package:baby_diary/baby_information/baby_information_model.dart';
+import 'package:baby_diary/excretion/excretion_list/excretion_model.dart';
 import 'package:flutter/foundation.dart';
 import 'package:baby_diary/baby_weight/baby_weight_model.dart';
 import 'package:baby_diary/diary/model/diary.dart';
@@ -13,12 +14,14 @@ class DatabaseHandler {
   static String diaryTable = 'diaries';
   static String vaccinationTable = 'vaccination';
   static String notificationsTable = 'notifications';
-  static String babyKickTable = 'babyKick';
-  static String motherWeightTable = 'motherWeight';
-  static String scheduleTable = 'schedule';
-  static String babyWeightTable = 'babyWeight';
-  static String babyClothersTable = 'babyClothers';
-  static String favoriteNameTable = 'favoriteName';
+  static String excretionTable = 'excretion';
+  static String sleepTable = 'sleep';
+  static String heightTable = 'height';
+  static String weightTable = 'weight';
+  static String milkTable = 'milkTable';
+  static String motherMilkTable = 'motherMilk';
+  static String eatingTable = 'eating';
+  static String otherTable = 'other';
 
   static Future<sql.Database> db(String tableName) async {
     return sql.openDatabase(
@@ -32,16 +35,19 @@ class DatabaseHandler {
 
   static Future<void> createTables(sql.Database database) async {
     await database.execute("CREATE TABLE $babyTable(babyId TEXT PRIMARY KEY, babyName TEXT, gender INTEGER, birthDate INTEGER, createdTime INTEGER, updatedTime INTEGER)");
-    await database.execute("CREATE TABLE $babyWeightTable(babyWeightId TEXT PRIMARY KEY, weight INTEGER, note TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, babyId TEXT)");
-    await database.execute("CREATE TABLE $diaryTable(diaryId TEXT PRIMARY KEY, title TEXT, content TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, mediaUrl TEXT)");
     await database.execute("CREATE TABLE $doctorTable(doctorId TEXT PRIMARY KEY, name TEXT, address TEXT, time TEXT, hospital TEXT, phone INTEGER, description TEXT, rate TEXT, view INTEGER)");
+    await database.execute("CREATE TABLE $diaryTable(diaryId TEXT PRIMARY KEY, title TEXT, content TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, mediaUrl TEXT)");
     await database.execute("CREATE TABLE $vaccinationTable(vaccinationId TEXT PRIMARY KEY, name TEXT, address TEXT, time TEXT, phone INTEGER, rate TEXT, view INTEGER)");
-    await database.execute("CREATE TABLE $babyKickTable(babyKickId TEXT PRIMARY KEY, babyId TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, duration INTEGER, startTime INTEGER, quantity INTEGER)");
-    await database.execute("CREATE TABLE $motherWeightTable(weightId TEXT PRIMARY KEY, babyId TEXT, weight INTEGER, createdTime INTEGER, updatedTime INTEGER, time INTEGER)");
-    await database.execute("CREATE TABLE $scheduleTable(scheduleId TEXT PRIMARY KEY, babyId TEXT, content TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, isAlarm INTEGER, location TEXT)");
     await database.execute("CREATE TABLE $notificationsTable(notificationId TEXT PRIMARY KEY, title TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, url TEXT, content TEXT)");
-    await database.execute("CREATE TABLE $babyClothersTable(babyClothersId TEXT PRIMARY KEY, babyId TEXT, name TEXT, quantity INTEGER, time INTEGER, createdTime INTEGER, updatedTime INTEGER, note TEXT, unit TEXT, isFinished INTEGER, isAlarm INTEGER, type TEXT)");
-    await database.execute("CREATE TABLE $favoriteNameTable(babyName TEXT PRIMARY KEY)");
+
+    await database.execute("CREATE TABLE $excretionTable(excretionId TEXT PRIMARY KEY, babyId TEXT, type INTEGER, note TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, url TEXT)");
+    await database.execute("CREATE TABLE $sleepTable(sleepId TEXT PRIMARY KEY, babyId TEXT, startTime INTEGER, createdTime INTEGER, updatedTime INTEGER, duration INTEGER, startTime INTEGER)");
+    await database.execute("CREATE TABLE $heightTable(heightId TEXT PRIMARY KEY, babyId TEXT, height INTEGER, note TEXT, createdTime INTEGER, updatedTime INTEGER, time INTEGER, url TEXT)");
+    await database.execute("CREATE TABLE $weightTable(weightId TEXT PRIMARY KEY, babyId TEXT, weight INTEGER, note TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, url TEXT)");
+    await database.execute("CREATE TABLE $milkTable(milkId TEXT PRIMARY KEY, babyId TEXT, quantity INTEGER, time INTEGER, createdTime INTEGER, updatedTime INTEGER, note TEXT, type INTEGER, url TEXT)");
+    await database.execute("CREATE TABLE $motherMilkTable(motherMilkId TEXT PRIMARY KEY, babyId TEXT, left_quantity INTEGER, right_quantity INTEGER, time INTEGER, createdTime INTEGER, updatedTime INTEGER, note TEXT, duration INTEGER, url TEXT)");
+    await database.execute("CREATE TABLE $eatingTable(eatingId TEXT PRIMARY KEY, babyId TEXT, quantity INTEGER, unit TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, note TEXT, duration INTEGER, url TEXT)");
+    await database.execute("CREATE TABLE $otherTable(other TEXT PRIMARY KEY, babyId TEXT, quantity INTEGER, unit TEXT, time INTEGER, createdTime INTEGER, updatedTime INTEGER, note TEXT, duration INTEGER, url TEXT)");
   }
 
   static Future<void> clearData() async {
@@ -108,127 +114,7 @@ class DatabaseHandler {
     }
   }
 
-  /// Handle Baby weight
-  static Future<void> insertBabyWeight(BabyWeight weight) async {
-    final db = await DatabaseHandler.db(babyWeightTable);
-    await db.insert(
-      babyWeightTable,
-      weight.toJson(),
-      conflictAlgorithm: sql.ConflictAlgorithm.replace,
-    );
-  }
-
-  static Future<BabyWeight> getBabyWeight(String id) async {
-    final db = await DatabaseHandler.db(babyWeightTable);
-    final List<Map<String, dynamic>> maps = await db.query(babyWeightTable, where: 'babyWeightId = ?', whereArgs: [id]);
-    return BabyWeight.fromDatabase(maps.first);
-  }
-
-  static Future<List<BabyWeight>> getAllBabyWeight() async {
-    final db = await DatabaseHandler.db(babyWeightTable);
-    final List<Map<String, dynamic>> list = await db.query(babyWeightTable);
-    return list.map((e) => BabyWeight.fromDatabase(e)).toList();
-  }
-
-  // Update an item by id
-  static Future<void> updateBabyWeight(BabyWeight weight) async {
-    final db = await DatabaseHandler.db(babyWeightTable);
-
-    await db.update(
-      babyWeightTable,
-      weight.toJson(),
-      // Ensure that the Dog has a matching id.
-      where: 'babyWeightId = ?',
-      // Pass the Dog's id as a whereArg to prevent SQL injection.
-      whereArgs: [weight.babyWeightId],
-    );
-  }
-
-  // Delete
-  static Future<void> deleteBabyWeight(String babyWeightId) async {
-    final db = await DatabaseHandler.db(babyWeightTable);
-    try {
-      await db.delete(
-          babyWeightTable,
-          where: "babyWeightId = ?",
-          whereArgs: [babyWeightId]);
-    } catch (err) {
-      debugPrint("Something went wrong when deleting an item: $err");
-    }
-  }
-
-  static Future<void> deleteAllBabyWeight() async {
-    final db = await DatabaseHandler.db(babyWeightTable);
-    try {
-      await db.delete(
-          babyWeightTable
-      );
-    } catch (err) {
-      debugPrint("Something went wrong when deleting an item: $err");
-    }
-  }
-
-  /// Handle diaries table
-  static Future<void> insertDiary(Diary diary) async {
-    final db = await DatabaseHandler.db(diaryTable);
-    await db.insert(
-      diaryTable,
-      diary.toJson(),
-      conflictAlgorithm: sql.ConflictAlgorithm.replace,
-    );
-  }
-
-  // Read all items (journals)
-  static Future<Diary> getDiary(String diaryId) async {
-    final db = await DatabaseHandler.db(diaryTable);
-    final List<Map<String, dynamic>> maps = await db.query(diaryTable, where: 'diaryId = ?', whereArgs: [diaryId]);
-    return Diary.fromDatabase(maps.first);
-  }
-
-  static Future<List<Diary>> getDiaries() async {
-    final db = await DatabaseHandler.db(diaryTable);
-    final List<Map<String, dynamic>> list = await db.query(diaryTable);
-    return list.map((e) => Diary.fromDatabase(e)).toList();
-  }
-
-  // Update an item by id
-  static Future<void> updateDiary(Diary diary) async {
-    final db = await DatabaseHandler.db(diaryTable);
-
-    await db.update(
-      diaryTable,
-      diary.toJson(),
-      // Ensure that the Dog has a matching id.
-      where: 'diaryId = ?',
-      // Pass the Dog's id as a whereArg to prevent SQL injection.
-      whereArgs: [diary.diaryId],
-    );
-  }
-
-  // Delete
-  static Future<void> deleteDiary(String diaryId) async {
-    final db = await DatabaseHandler.db(diaryTable);
-    try {
-      await db.delete(
-          diaryTable,
-          where: "diaryId = ?",
-          whereArgs: [diaryId]);
-    } catch (err) {
-      debugPrint("Something went wrong when deleting an item: $err");
-    }
-  }
-
-  static Future<void> deleteAllDiary(String diaryId) async {
-    final db = await DatabaseHandler.db(diaryTable);
-    try {
-      await db.delete(
-          diaryTable);
-    } catch (err) {
-      debugPrint("Something went wrong when deleting an item: $err");
-    }
-  }
-
-  /// Hanlde doctor data
+  /// ---------------------- Hanlde doctor data --------------------------------
   static Future<void> insertDoctor(DoctorModel doctor) async {
     final db = await DatabaseHandler.db(doctorTable);
     await db.insert(
@@ -289,7 +175,67 @@ class DatabaseHandler {
     }
   }
 
-  /// Hanlde Vaccination data
+  /// ---------------------- Handle diaries table ------------------------------
+  static Future<void> insertDiary(Diary diary) async {
+    final db = await DatabaseHandler.db(diaryTable);
+    await db.insert(
+      diaryTable,
+      diary.toJson(),
+      conflictAlgorithm: sql.ConflictAlgorithm.replace,
+    );
+  }
+
+  // Read all items (journals)
+  static Future<Diary> getDiary(String diaryId) async {
+    final db = await DatabaseHandler.db(diaryTable);
+    final List<Map<String, dynamic>> maps = await db.query(diaryTable, where: 'diaryId = ?', whereArgs: [diaryId]);
+    return Diary.fromDatabase(maps.first);
+  }
+
+  static Future<List<Diary>> getDiaries() async {
+    final db = await DatabaseHandler.db(diaryTable);
+    final List<Map<String, dynamic>> list = await db.query(diaryTable);
+    return list.map((e) => Diary.fromDatabase(e)).toList();
+  }
+
+  // Update an item by id
+  static Future<void> updateDiary(Diary diary) async {
+    final db = await DatabaseHandler.db(diaryTable);
+
+    await db.update(
+      diaryTable,
+      diary.toJson(),
+      // Ensure that the Dog has a matching id.
+      where: 'diaryId = ?',
+      // Pass the Dog's id as a whereArg to prevent SQL injection.
+      whereArgs: [diary.diaryId],
+    );
+  }
+
+  // Delete
+  static Future<void> deleteDiary(String diaryId) async {
+    final db = await DatabaseHandler.db(diaryTable);
+    try {
+      await db.delete(
+          diaryTable,
+          where: "diaryId = ?",
+          whereArgs: [diaryId]);
+    } catch (err) {
+      debugPrint("Something went wrong when deleting an item: $err");
+    }
+  }
+
+  static Future<void> deleteAllDiary(String diaryId) async {
+    final db = await DatabaseHandler.db(diaryTable);
+    try {
+      await db.delete(
+          diaryTable);
+    } catch (err) {
+      debugPrint("Something went wrong when deleting an item: $err");
+    }
+  }
+
+  /// ------------------- Hanlde Vaccination data ------------------------------
   static Future<void> insertVaccination(VaccinationModel vaccination) async {
     final db = await DatabaseHandler.db(vaccinationTable);
     await db.insert(
@@ -341,6 +287,66 @@ class DatabaseHandler {
   static Future<void> updateVaccinationList(List<VaccinationModel> vaccinations) async {
     for (VaccinationModel element in vaccinations) {
       DatabaseHandler.insertVaccination(element);
+    }
+  }
+
+  /// ------------------ Handle Baby weight ------------------------------------
+  static Future<void> insertExcretion(ExcretionModel excretion) async {
+    final db = await DatabaseHandler.db(excretionTable);
+    await db.insert(
+      excretionTable,
+      excretion.toJson(),
+      conflictAlgorithm: sql.ConflictAlgorithm.replace,
+    );
+  }
+
+  static Future<ExcretionModel> getExcretion(String id) async {
+    final db = await DatabaseHandler.db(excretionTable);
+    final List<Map<String, dynamic>> maps = await db.query(excretionTable, where: 'excretionId = ?', whereArgs: [id]);
+    return ExcretionModel.fromDatabase(maps.first);
+  }
+
+  static Future<List<ExcretionModel>> getAllxcretion() async {
+    final db = await DatabaseHandler.db(excretionTable);
+    final List<Map<String, dynamic>> list = await db.query(excretionTable);
+    return list.map((e) => ExcretionModel.fromDatabase(e)).toList();
+  }
+
+  // Update an item by id
+  static Future<void> updateExcretion(ExcretionModel excretion) async {
+    final db = await DatabaseHandler.db(excretionTable);
+
+    await db.update(
+      excretionTable,
+      excretion.toJson(),
+      // Ensure that the Dog has a matching id.
+      where: 'excretionId = ?',
+      // Pass the Dog's id as a whereArg to prevent SQL injection.
+      whereArgs: [excretion.excretionId],
+    );
+  }
+
+  // Delete
+  static Future<void> deleteExcretion(String excretionId) async {
+    final db = await DatabaseHandler.db(excretionTable);
+    try {
+      await db.delete(
+          excretionTable,
+          where: "excretionId = ?",
+          whereArgs: [excretionId]);
+    } catch (err) {
+      debugPrint("Something went wrong when deleting an item: $err");
+    }
+  }
+
+  static Future<void> deleteAllExcretion() async {
+    final db = await DatabaseHandler.db(excretionTable);
+    try {
+      await db.delete(
+          excretionTable
+      );
+    } catch (err) {
+      debugPrint("Something went wrong when deleting an item: $err");
     }
   }
 }

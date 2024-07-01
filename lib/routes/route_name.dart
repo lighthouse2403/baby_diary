@@ -3,8 +3,8 @@ class RoutesName {
   static const String homeRoute = '/home';
   static const String chat = '/tabBar/chat';
   static const String chatDetail = '/tabBar/chat/chatDetail';
-  static const String babyInformation = '/home/babyInformation';
-  static const String doctor = '/home/doctor';
+  static const String babyHeight = '/home/babyInformation';
+  static const String babyHeightDetail = '/babyHeight/babyHeightDetail';
   static const String index = '/home/index';
   static const String doctorDetail = '/home/doctor/doctorDetail';
   static const String vaccination = '/home/vaccination';

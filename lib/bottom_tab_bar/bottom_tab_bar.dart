@@ -1,3 +1,4 @@
+import 'package:baby_diary/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:baby_diary/chat/chat.dart';
 import 'package:baby_diary/common/constants/constants.dart';
@@ -16,7 +17,8 @@ class MainBottomTabBar extends StatefulWidget {
 class MainBottomTabBarState extends State<MainBottomTabBar> {
   int selectedIndex = 0;
   List<Widget> tabs = [
-    const Chat()
+    const Chat(),
+    const Home()
   ];
 
   @override
